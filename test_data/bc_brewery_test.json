@@ -1,0 +1,35 @@
+[
+    {
+        "name": "101 Brewhouse + Distillery",
+        "city": "Gibsons",
+        "brewery_type": [
+            "Beer Service",
+            "Brewpub",
+            "Cider",
+            "Distilling",
+            "Family Friendly",
+            "Food Service",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Shopping",
+            "Take-Out",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/101-brewhouse-distillery/",
+        "address": "1009 Gibsons Way",
+        "address_2": "N/A",
+        "postal_code": "V0N 1V7",
+        "state_province": "BC",
+        "phone": "7784622011",
+        "wesbite_url": "https://the101.ca/",
+        "description": "N/A",
+        "social_media": [
+            "https://twitter.com/The101Gibsons",
+            "https://www.facebook.com/pg/The101Gibsons",
+            "https://www.instagram.com/the101gibsons/",
+            "https://untappd.com/w/101-brewhouse-distillery/357883"
+        ],
+        "country": "Canada"
+    }
+]
