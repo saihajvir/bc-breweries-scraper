@@ -1,0 +1,5647 @@
+[
+    {
+        "name": "101 Brewhouse + Distillery",
+        "city": "Gibsons",
+        "brewery_type": [
+            "Brewpub",
+            "Cider",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/101-brewhouse-distillery/",
+        "address": "1009 Gibsons Way",
+        "postal_code": "V0N 1V7",
+        "state_province": "BC",
+        "phone": "7784622011",
+        "website_url": "https://the101.ca/",
+        "social_media": [
+            "https://twitter.com/The101Gibsons",
+            "https://www.facebook.com/pg/The101Gibsons",
+            "https://www.instagram.com/the101gibsons/",
+            "https://untappd.com/w/101-brewhouse-distillery/357883"
+        ],
+        "country": "Canada",
+        "menu_url": "http://the101.ca/beer/"
+    },
+    {
+        "name": "3 Dogs Brewing",
+        "city": "White Rock",
+        "brewery_type": [
+            "Board Games",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/3-dogs-brewing/",
+        "address": "107 - 15181 Thrift Avenue",
+        "postal_code": "V4B 0C1",
+        "state_province": "BC",
+        "phone": "6043851364",
+        "website_url": "http://www.3dogsbrewing.com",
+        "social_media": [
+            "https://twitter.com/3Dogs_Brewing",
+            "https://www.facebook.com/3dogsbrewingofficial/",
+            "https://www.instagram.com/3dogsbrewing/",
+            "https://untappd.com/3_Dogs_Brewing"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "33 Acres Brewing Company",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Food Truck(s)",
+            "Growler Fills",
+            "Merchandise",
+            "Patio"
+        ],
+        "url": "https://bcaletrail.ca/breweries/33-acres-brewing-co/",
+        "address": "15 W 8th Ave",
+        "postal_code": "V5Y 1M8",
+        "state_province": "BC",
+        "phone": "6046204589",
+        "website_url": "https://33acresbrewing.com/",
+        "social_media": [
+            "https://www.facebook.com/33acresbrewing/",
+            "https://www.instagram.com/33acresbrewing/",
+            "https://untappd.com/w/33-acres-brewing-co/71017"
+        ],
+        "country": "Canada",
+        "menu_url": "http://33acresbrewing.com/our-beers/"
+    },
+    {
+        "name": "33 Brewing Experiment",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Cider",
+            "Food Truck(s)",
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/33-brewing-experiment/",
+        "address": "25 W 8th Ave",
+        "postal_code": "V5Y 1M8",
+        "state_province": "BC",
+        "phone": "6046204589",
+        "website_url": "https://33brewingexp.com/",
+        "social_media": [
+            "https://www.facebook.com/33brewingexp/",
+            "https://www.instagram.com/33brewingexp/",
+            "https://untappd.com/w/33-brewing-experiment/405524"
+        ],
+        "country": "Canada",
+        "menu_url": "https://33acresbrewing.com/category/33-brewing-experiment/"
+    },
+    {
+        "name": "4 Mile Brewing",
+        "city": "Victoria",
+        "brewery_type": [
+            "Brewpub",
+            "Growler Fills",
+            "Merchandise",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/4-mile-brewing-co/",
+        "address": "199 Island Hwy",
+        "postal_code": "V9B 1G2",
+        "state_province": "BC",
+        "phone": "2504792514",
+        "website_url": "http://4milebrewingco.com",
+        "social_media": [
+            "https://www.facebook.com/4milebrewingco/",
+            "https://untappd.com/4MileBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "https://fourmilebrewingco.com/our-beers/"
+    },
+    {
+        "name": "A-FRAME Brewing",
+        "city": "Squamish",
+        "brewery_type": [
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Food Truck(s)",
+            "GF Food Options",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/a-frame-brewing-co/",
+        "address": "1 - 38927 Queens Way",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "6048920777",
+        "website_url": "http://aframebrewing.com",
+        "social_media": [
+            "https://twitter.com/aframebrewing",
+            "https://www.facebook.com/aframebrewing",
+            "https://www.instagram.com/aframebrewing",
+            "https://untappd.com/AFrameBrewingCompany"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.aframebrewing.com/beer-2"
+    },
+    {
+        "name": "Abandoned Rail Brewing Co",
+        "city": "Penticton",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Dog Friendly Patio",
+            "GF Food Options",
+            "Growler Fills",
+            "Guest Taps",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Spirits",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/abandoned-rail-brewing/",
+        "address": "1220 Davenport Ave",
+        "postal_code": "V2A 8V1",
+        "state_province": "BC",
+        "phone": "7784767704",
+        "website_url": "https://www.arbrewco.com/",
+        "social_media": [
+            "https://www.facebook.com/profile.php?id=61557457193019",
+            "https://www.instagram.com/abandonedrailbrewco/",
+            "https://untappd.com/AbandonedRailBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Ace Brewing",
+        "city": "Courtenay",
+        "brewery_type": [
+            "Growler Fills",
+            "Live Music",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/ace-brewing/",
+        "address": "150 Mansfield Drive",
+        "postal_code": "V9N 6C5",
+        "state_province": "BC",
+        "phone": "2503381182",
+        "website_url": "https://acebrewing.ca/",
+        "social_media": [
+            "https://twitter.com/AceBrewery",
+            "https://www.facebook.com/pg/acebrewingcompany",
+            "https://www.instagram.com/acebrewingcompany/",
+            "https://untappd.com/AceBrewingCompany"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Alberni Brewing Co.",
+        "city": "Port Alberni",
+        "brewery_type": [
+            "Brewpub",
+            "Cider",
+            "Growler Fills",
+            "Merchandise",
+            "Patio",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/alberni-brewing-co/",
+        "address": "4630 Adelaide Street",
+        "postal_code": "V9Y 6N4",
+        "state_province": "BC",
+        "phone": "7787448010",
+        "website_url": "https://albernibrewingcompany.ca/",
+        "social_media": [
+            "https://www.facebook.com/AlberniBrewingCompany",
+            "https://www.instagram.com/albernibrewing/",
+            "https://untappd.com/AlberniBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "https://tapitgood.com/list/welsh113/"
+    },
+    {
+        "name": "Angry Hen Brewing",
+        "city": "Kaslo",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise",
+            "Patio",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/angry-hen-brewing/",
+        "address": "343 Front Street",
+        "postal_code": "V0G 1M0",
+        "state_province": "BC",
+        "phone": "2503537446",
+        "website_url": "http://angryhenbrewing.com",
+        "social_media": [
+            "https://www.facebook.com/angryhenbrewing/",
+            "https://www.instagram.com/angryhenbrewing/",
+            "https://untappd.com/AngryHenBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "https://angryhenbrewing.com/our-beer-2/"
+    },
+    {
+        "name": "Another Beer Co",
+        "city": "New Westminster",
+        "brewery_type": [
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/another-beer-co/",
+        "address": "#11 - 30 Capilano Way",
+        "postal_code": "V3L 5M3",
+        "state_province": "BC",
+        "phone": "7782329112",
+        "website_url": "http://www.anotherbeerco.com/store",
+        "social_media": [
+            "https://twitter.com/anotherbeerco",
+            "https://www.facebook.com/anotherbeerco/",
+            "https://www.instagram.com/anotherbeerco/",
+            "https://untappd.com/w/another-beer-company/396668"
+        ],
+        "country": "Canada",
+        "menu_url": "https://anotherbeerco.com/"
+    },
+    {
+        "name": "Arrowhead Brewing Company",
+        "city": "Invermere",
+        "brewery_type": [
+            "Board Games",
+            "Cider",
+            "Dog Friendly Patio",
+            "Food Truck(s)",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/arrowhead-brewing-company/",
+        "address": "481 Arrow Road",
+        "postal_code": "V0A 1K2",
+        "state_province": "BC",
+        "phone": "7785262739",
+        "website_url": "http://arrowheadbrewingcompany.ca",
+        "social_media": [
+            "https://www.facebook.com/arrowheadbrew",
+            "https://www.instagram.com/arrowheadbrew/"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Backcountry Brewing",
+        "city": "Squamish",
+        "brewery_type": [
+            "Brewpub",
+            "Cider",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/backcountry-brewing/",
+        "address": "405-1201 Commercial Place",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "6045672739",
+        "website_url": "http://www.backcountrybrewing.com",
+        "social_media": [
+            "https://twitter.com/Backcountry604",
+            "https://www.facebook.com/backcountrybrewing/",
+            "https://www.instagram.com/backcountrybrewing/",
+            "https://untappd.com/w/backcountry-brewing/332875"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.backcountrybrewing.com/our-beers/"
+    },
+    {
+        "name": "Backroads Brewing Company",
+        "city": "Nelson",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/backroads-brewing-company/",
+        "address": "460 Baker St",
+        "postal_code": "V1L 4H7",
+        "state_province": "BC",
+        "phone": "7784633361",
+        "website_url": "http://backroadsbrewing.com",
+        "social_media": [
+            "https://twitter.com/backroadsbrews",
+            "https://www.facebook.com/backroadsbrews/",
+            "https://www.instagram.com/backroadsbrewing/",
+            "https://untappd.com/BackroadsBrewingCo"
+        ],
+        "country": "Canada",
+        "menu_url": "https://backroadsbrewing.com/portfolio-items/backroads-brewing-beer-menu/"
+    },
+    {
+        "name": "Backroads Brewing – Osoyoos",
+        "city": "Osoyoos",
+        "brewery_type": [
+            "Bike Racks",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Non Alc Beer Available",
+            "Patio",
+            "Videogames",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/backroads-brewing-co-osoyoss/",
+        "address": "15 Park Place",
+        "postal_code": "V0H 1V0",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://backroadsbrewing.com/",
+        "social_media": [
+            "https://twitter.com/backroadsbrews",
+            "https://www.facebook.com/backroadsbrews",
+            "https://www.instagram.com/backroadsbrewing/",
+            "https://untappd.com/BackroadsBrewingCo"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Bad Dog Brewing",
+        "city": "Sooke",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise",
+            "Snacks",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/bad-dog-brewing/",
+        "address": "7861 Tugwell Rd",
+        "postal_code": "V9Z 0J7",
+        "state_province": "BC",
+        "phone": "2506423621",
+        "website_url": "http://www.baddogbrewing.ca",
+        "social_media": [
+            "https://www.facebook.com/sookebaddogbrewing/",
+            "https://www.instagram.com/baddogbrewingco/"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Barkerville Brewing",
+        "city": "Quesnel",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/barkerville-brewing-co/",
+        "address": "185 Davie St",
+        "postal_code": "V2J 2S8",
+        "state_province": "BC",
+        "phone": "7784142739",
+        "website_url": "https://barkervillebeer.com",
+        "social_media": [
+            "https://twitter.com/BarkervilleBeer",
+            "https://www.facebook.com/BarkervilleBeer/",
+            "https://www.instagram.com/barkervillebeer/",
+            "https://untappd.com/BarkervilleBrewingCo"
+        ],
+        "country": "Canada",
+        "menu_url": "https://barkervillebeer.com/#ourbeers"
+    },
+    {
+        "name": "Barley Mill Brew Pub",
+        "city": "Penticton",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Dog Friendly Patio",
+            "GF Food Options",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Spirits",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/barley-mill-brew-pub-bistro/",
+        "address": "2460 Skaha Lake Rd",
+        "postal_code": "V2A 6E9",
+        "state_province": "BC",
+        "phone": "2504938000",
+        "website_url": "http://barleymillpub.com",
+        "social_media": [
+            "https://twitter.com/barleymillbrew",
+            "https://www.facebook.com/Barley.Mill.Pub.Penticton/",
+            "https://www.instagram.com/barleymillpubpenticton/",
+            "https://untappd.com/w/barley-mill-brew-pub-british-columbia/34072"
+        ],
+        "country": "Canada",
+        "menu_url": "http://www.barleymillpub.com/menu/ales-a-lagers"
+    },
+    {
+        "name": "Barley Station Brew Pub",
+        "city": "Salmon Arm",
+        "brewery_type": [
+            "Brewpub",
+            "GF Food Options",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise"
+        ],
+        "url": "https://bcaletrail.ca/breweries/barley-station-brew-pub/",
+        "address": "20 Shuswap St S",
+        "postal_code": "V1E 1G1",
+        "state_province": "BC",
+        "phone": "2508320999",
+        "website_url": "http://barleystation.com",
+        "social_media": [
+            "https://www.facebook.com/BarleyStationBrewPub/",
+            "https://www.instagram.com/barleystation/",
+            "https://untappd.com/w/barley-station-brew-pub-shuswap-lake-brewing-company/3035"
+        ],
+        "country": "Canada",
+        "menu_url": "https://barleystation.com/beers/"
+    },
+    {
+        "name": "Barn Owl Brewing",
+        "city": "Kelowna",
+        "brewery_type": [
+            "Cider",
+            "Growler Fills",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/barn-owl-brewing/",
+        "address": "#102 - 4629 Lakeshore Rd",
+        "postal_code": "V1W 1X3",
+        "state_province": "BC",
+        "phone": "7787609349",
+        "website_url": "https://www.barnowlbrewing.ca/",
+        "social_media": [
+            "https://www.facebook.com/pages/category/Brewery/Barn-Owl-Brewing-Company-1198749453615387/",
+            "https://www.instagram.com/barnowlbrew/",
+            "https://untappd.com/Barn_Owl_Brewing"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.barnowlbrewing.ca/barn-brews/"
+    },
+    {
+        "name": "Barnside Brewing",
+        "city": "Delta",
+        "brewery_type": [
+            "Brewpub",
+            "Cider",
+            "Craft Sodas",
+            "GF Food Options",
+            "Growler Fills",
+            "Patio",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/barnside-brewing-co/",
+        "address": "6655 60th Ave",
+        "postal_code": "V4K4E2",
+        "state_province": "BC",
+        "phone": "7784342264",
+        "website_url": "http://www.barnsidebrewing.ca",
+        "social_media": [
+            "https://www.facebook.com/barnsidebrewing",
+            "http://www.instagram.com/barnsidebrewing",
+            "https://untappd.com/BarnsideBrewingCo"
+        ],
+        "country": "Canada",
+        "menu_url": "https://barnsidebrewing.ca/our-beers/"
+    },
+    {
+        "name": "Batch 44 Brewery & Kitchen",
+        "city": "Sechelt",
+        "brewery_type": [
+            "Brewpub",
+            "GF Food Options",
+            "Growler Fills",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/batch-44-brewery-kitchen/",
+        "address": "5559 Wharf Ave",
+        "postal_code": "V0N 3A0",
+        "state_province": "BC",
+        "phone": "6047403805",
+        "website_url": "https://www.batch44brewery.com/",
+        "social_media": [
+            "https://www.facebook.com/pages/Batch-44-Brewery/102447004669676",
+            "https://www.instagram.com/batch44brewery/",
+            "https://untappd.com/w/batch-44-brewery/458038"
+        ],
+        "country": "Canada",
+        "menu_url": "https://batch44brewery.com/takeoutmenu"
+    },
+    {
+        "name": "Bayview Brewing Company",
+        "city": "Ladysmith",
+        "brewery_type": [
+            "Bike Racks",
+            "Brewpub",
+            "Cider",
+            "Craft Sodas",
+            "Dog Friendly Patio",
+            "GF Food Options",
+            "Gluten-Free Beer",
+            "Growler Fills",
+            "Guest Taps",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/bayview-brewing-co/",
+        "address": "204 Dogwood Drive",
+        "postal_code": "V9G 1S8",
+        "state_province": "BC",
+        "phone": "2509120166",
+        "website_url": "N/A",
+        "social_media": [
+            "https://www.facebook.com/bayviewbrewingcompany/",
+            "https://www.instagram.com/bayviewbrewing/",
+            "http://www.untappd.com/bayviewbrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Beach Fire Brewing",
+        "city": "Campbell River",
+        "brewery_type": [
+            "Brewpub",
+            "Cider",
+            "Craft Sodas",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/beach-fire-brewing/",
+        "address": "594 11 Ave",
+        "postal_code": "V9W 4G4",
+        "state_province": "BC",
+        "phone": "2509143473",
+        "website_url": "http://www.beachfirebrewing.ca/",
+        "social_media": [
+            "https://twitter.com/beachfirebrew",
+            "https://www.facebook.com/beachfirebrewing/",
+            "https://www.instagram.com/beachfirebrewing/",
+            "https://untappd.com/BeachFireBrewingCo"
+        ],
+        "country": "Canada",
+        "menu_url": "https://beachfirebrewing.ca/our-beer"
+    },
+    {
+        "name": "Beacon Brewing",
+        "city": "Sidney",
+        "brewery_type": [
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Snacks",
+            "Videogames",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/beacon-brewing/",
+        "address": "9829 Third Street",
+        "postal_code": "V8L 3A7",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "http://www.beaconbrewing.ca/",
+        "social_media": [
+            "https://www.facebook.com/BeaconBrewing.Sidney",
+            "https://www.instagram.com/beacon.brewing/"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Beard’s Brewing",
+        "city": "Fort St. John",
+        "brewery_type": [
+            "Food Truck(s)",
+            "Growler Fills",
+            "Merchandise"
+        ],
+        "url": "https://bcaletrail.ca/breweries/beards-brewing/",
+        "address": "10408 Alaska Rd North",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "2502624104",
+        "website_url": "https://www.beardsbrewing.ca/",
+        "social_media": [
+            "https://twitter.com/beards_brewing",
+            "https://www.facebook.com/beardsbrewing/",
+            "https://www.instagram.com/beards.brewing/",
+            "https://untappd.com/w/beard-s-brewing-company/370489"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.beardsbrewing.ca/"
+    },
+    {
+        "name": "The Beer Farmers",
+        "city": "Pemberton",
+        "brewery_type": [
+            "Food Truck(s)",
+            "Growler Fills",
+            "Merchandise"
+        ],
+        "url": "https://bcaletrail.ca/breweries/the-beer-farmers/",
+        "address": "8324 Meadows Rd",
+        "postal_code": "V0N 2L2",
+        "state_province": "BC",
+        "phone": "7788794033",
+        "website_url": "https://www.thebeerfarmers.com/",
+        "social_media": [
+            "https://www.facebook.com/thebeerfarmers/",
+            "https://www.instagram.com/thebeerfarmers/",
+            "https://untappd.com/w/the-beer-farmers/397530"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Beere Brewing",
+        "city": "North Vancouver",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/beere-brewing/",
+        "address": "312 Esplanade E",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "6049832163",
+        "website_url": "https://www.beerebrewing.com/beerestore/",
+        "social_media": [
+            "https://twitter.com/BeereBrewingCo",
+            "https://www.facebook.com/beerebrewing/",
+            "https://www.instagram.com/beerebrewingco/"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.beerebrewing.com/our-beers"
+    },
+    {
+        "name": "Beva Brewing & Blending",
+        "city": "North Vancouver",
+        "brewery_type": [
+            "Bike Racks",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Dog Friendly Patio",
+            "Guest Taps",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/beva-brewing-blending/",
+        "address": "1405 Pemberton Ave",
+        "postal_code": "V7P2R8",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://www.bevabrewing.ca/",
+        "social_media": [
+            "https://www.facebook.com/profile.php?id=100093881980814",
+            "https://www.instagram.com/bevabrewing/",
+            "https://untappd.com/BevaBrewingBlending"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Black Kettle Brewing",
+        "city": "North Vancouver",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/black-kettle-brewing/",
+        "address": "720 Copping St #106",
+        "postal_code": "V7M 3G3",
+        "state_province": "BC",
+        "phone": "6049879989",
+        "website_url": "http://blackkettlebrewing.com",
+        "social_media": [
+            "https://twitter.com/BlackKettleBeer",
+            "https://www.facebook.com/BlackKettleBrewing/",
+            "https://www.instagram.com/blackkettlebeer/",
+            "https://untappd.com/BlackKettleBrewingCompany"
+        ],
+        "country": "Canada",
+        "menu_url": "http://www.blackkettlebrewing.com/beers"
+    },
+    {
+        "name": "BNA Brewing Co.",
+        "city": "Kelowna",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Dog Friendly Patio",
+            "GF Food Options",
+            "Growler Fills",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Spirits",
+            "Videogames",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/bna-brewing-co/",
+        "address": "1250 Ellis St",
+        "postal_code": "V1Y 1Z4",
+        "state_province": "BC",
+        "phone": "2364200025",
+        "website_url": "http://bnabrewing.com",
+        "social_media": [
+            "https://twitter.com/BNABrewing",
+            "https://www.facebook.com/BNAbrewing/",
+            "https://www.instagram.com/bnabrewing/",
+            "https://untappd.com/BNABrewingCo"
+        ],
+        "country": "Canada",
+        "menu_url": "http://www.bnabrewing.com/beer/"
+    },
+    {
+        "name": "Bomber Brewing",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Food Truck(s)",
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/bomber-brewing/",
+        "address": "1488 Adanac St",
+        "postal_code": "V5L 2C3",
+        "state_province": "BC",
+        "phone": "6044287457",
+        "website_url": "https://bomberbrewing.com",
+        "social_media": [
+            "https://twitter.com/bomberbrewing",
+            "https://www.facebook.com/bomberbrewing/",
+            "https://www.instagram.com/bomberbrewing/",
+            "https://untappd.com/BomberBrewingVan"
+        ],
+        "country": "Canada",
+        "menu_url": "https://bomberbrewing.com/pages/taproom"
+    },
+    {
+        "name": "Braggot Brewing",
+        "city": "North Vancouver",
+        "brewery_type": [],
+        "url": "https://bcaletrail.ca/breweries/braggot-brewing/",
+        "address": "102 - 370 Esplanade East",
+        "postal_code": "V7L 1A4",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://braggottery.com/",
+        "social_media": [
+            "https://www.instagram.com/braggotbrewing/"
+        ],
+        "country": "Canada",
+        "menu_url": "https://braggottery.com/#our"
+    },
+    {
+        "name": "Brassneck Brewery",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Food Truck(s)",
+            "Growler Fills",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/brassneck-brewery/",
+        "address": "2148 Main St",
+        "postal_code": "V5T 3C5",
+        "state_province": "BC",
+        "phone": "6042597686",
+        "website_url": "http://brassneck.ca",
+        "social_media": [
+            "https://www.facebook.com/pages/Brassneck-Brewery/661469417210968",
+            "https://www.instagram.com/brassneckbrew/",
+            "https://untappd.com/w/brassneck-brewery/83539"
+        ],
+        "country": "Canada",
+        "menu_url": "http://brassneck.ca/beer-archive/"
+    },
+    {
+        "name": "BREWHALL",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Brewpub",
+            "Cider",
+            "GF Food Options",
+            "Gluten-Free Beer",
+            "Merchandise",
+            "Videogames",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/brewhall-beer-co/",
+        "address": "97 East 2nd Ave",
+        "postal_code": "V5T 1B3",
+        "state_province": "BC",
+        "phone": "6047098623",
+        "website_url": "http://brewhall.com/",
+        "social_media": [
+            "https://www.facebook.com/Brewhall/",
+            "https://www.instagram.com/brewhall/",
+            "https://untappd.com/BREWHALLBeerCo"
+        ],
+        "country": "Canada",
+        "menu_url": "https://brewhall.com/menu/#drinksmenu"
+    },
+    {
+        "name": "The BrewHouse (High Mountain Brewing)",
+        "city": "Whistler",
+        "brewery_type": [
+            "Brewpub",
+            "Growler Fills"
+        ],
+        "url": "https://bcaletrail.ca/breweries/brewhouse-at-whistler/",
+        "address": "4355 Blackcomb Way",
+        "postal_code": "V0N 1B4",
+        "state_province": "BC",
+        "phone": "6049052739",
+        "website_url": "https://mjg.ca/brewhouse/",
+        "social_media": [
+            "https://twitter.com/BREWHOUSEatWHIS",
+            "https://www.facebook.com/HMBC.Brewhouse",
+            "https://untappd.com/w/brewhouse-high-mountain-brewing-co/5023"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Brewing August",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Food Truck(s)",
+            "Merchandise"
+        ],
+        "url": "https://bcaletrail.ca/breweries/brewing-august/",
+        "address": "1614 W. 3rd Ave",
+        "postal_code": "V6J 1K2",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://www.brewingaugust.com/",
+        "social_media": [
+            "https://www.facebook.com/photo.php?fbid=531170842344601&set=pb.100063550707101.-2207520000..&type=3",
+            "https://www.instagram.com/brewingaugust/"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Bridge Brewing Company",
+        "city": "North Vancouver",
+        "brewery_type": [
+            "Craft Sodas",
+            "Growler Fills",
+            "Merchandise",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/bridge-brewing-company/",
+        "address": "1448 Charlotte Rd",
+        "postal_code": "V7J 1H2",
+        "state_province": "BC",
+        "phone": "6047702739",
+        "website_url": "https://www.bridgebrewingstore.com/",
+        "social_media": [
+            "https://twitter.com/bridgebrewcrew",
+            "https://www.facebook.com/BridgeBrewCrew/",
+            "https://www.instagram.com/bridgebrewcrew/",
+            "https://untappd.com/BridgeBrewingCompany"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.bridgebrewing.com/year-round-beers"
+    },
+    {
+        "name": "Bright Eye Brewing",
+        "city": "Kamloops",
+        "brewery_type": [
+            "Brewpub",
+            "Growler Fills",
+            "Merchandise"
+        ],
+        "url": "https://bcaletrail.ca/breweries/bright-eye-brewing/",
+        "address": "292 Tranquille Rd",
+        "postal_code": "V2B 3G3",
+        "state_province": "BC",
+        "phone": "2503121702",
+        "website_url": "https://www.brighteyebrewing.com",
+        "social_media": [
+            "https://www.facebook.com/pg/brighteyebrewing",
+            "https://www.instagram.com/brighteyebrewing",
+            "https://untappd.com/BrightEyeBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.brighteyebrewing.com/drink"
+    },
+    {
+        "name": "Brookswood Brewing Co",
+        "city": "Langley",
+        "brewery_type": [],
+        "url": "https://bcaletrail.ca/breweries/brookswood-brewing-co/",
+        "address": "#102 - 4061 200 Street",
+        "postal_code": "V3A 1K8",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://www.brookswoodbrewing.com/",
+        "social_media": [
+            "https://twitter.com/Brookswoodbrew",
+            "https://www.facebook.com/brookswoodbrewing",
+            "https://www.instagram.com/brookswoodbrewingco/",
+            "https://untappd.com/Brookswood_Brewing_Co"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.brookswoodbrewing.com/beers"
+    },
+    {
+        "name": "Buffalo Rouge Brewing",
+        "city": "Kelowna",
+        "brewery_type": [
+            "Bike Racks",
+            "Cider",
+            "Craft Sodas",
+            "Guest Taps",
+            "Patio",
+            "Snacks",
+            "Vegan Options",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/buffalo-rouge-brewing-company/",
+        "address": "1111 Gordon Drive #105",
+        "postal_code": "V1Y 3E3",
+        "state_province": "BC",
+        "phone": "7789400170",
+        "website_url": "https://buffalorougebrewing.com/",
+        "social_media": [
+            "https://www.facebook.com/profile.php?id=100087725526765",
+            "https://www.instagram.com/buffalo.rouge.brewing/"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Bulkley Valley Brewery",
+        "city": "Smithers",
+        "brewery_type": [
+            "Growler Fills",
+            "Live Music",
+            "Merchandise"
+        ],
+        "url": "https://bcaletrail.ca/breweries/bulkley-valley-brewery/",
+        "address": "3860 1st Ave",
+        "postal_code": "V0J 2N0",
+        "state_province": "BC",
+        "phone": "2508470699",
+        "website_url": "http://www.bulkleyvalleybrewery.com",
+        "social_media": [
+            "http://facebook.com/BulkleyValleyBrewery",
+            "https://www.instagram.com/bulkleyvalleybrewery/",
+            "https://untappd.com/BulkleyValleyBrewery"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.bulkleyvalleybrewery.ca/beers/"
+    },
+    {
+        "name": "Camp Beer Co.",
+        "city": "Langley",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Cider",
+            "Craft Sodas",
+            "Dog Friendly Patio",
+            "GF Food Options",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/camp-beer-co/",
+        "address": "110 - 19664 64 Avenue",
+        "postal_code": "V2Y 1H3",
+        "state_province": "BC",
+        "phone": "6044274287",
+        "website_url": "http://www.campbeer.ca",
+        "social_media": [
+            "https://twitter.com/campbeerco",
+            "https://faceboook.com/campbeerco",
+            "https://www.instagram.com/campbeerco/",
+            "https://untappd.com/campbeerco"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.campbeer.ca/beers"
+    },
+    {
+        "name": "Cannery Brewing",
+        "city": "Penticton",
+        "brewery_type": [
+            "Cider",
+            "GF Food Options",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/cannery-brewing/",
+        "address": "198 Ellis Street",
+        "postal_code": "V2A 4L5",
+        "state_province": "BC",
+        "phone": "2504932723",
+        "website_url": "http://cannerybrewing.com",
+        "social_media": [
+            "https://twitter.com/cannerybrewing",
+            "https://www.facebook.com/CanneryBrewing/",
+            "https://www.instagram.com/cannerybrewing/",
+            "https://untappd.com/cannerybrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.cannerybrewing.com/beer"
+    },
+    {
+        "name": "Canuck Empire Brewing Co",
+        "city": "Abbotsford",
+        "brewery_type": [
+            "Cider",
+            "GF Food Options",
+            "Growler Fills",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/canuck-empire-brewing-co/",
+        "address": "Unit C - 33797 King Road",
+        "postal_code": "V2S 7P2",
+        "state_province": "BC",
+        "phone": "6047463616",
+        "website_url": "https://canuckempirebrewing.com/",
+        "social_media": [
+            "https://twitter.com/canuckempire",
+            "https://www.facebook.com/CanuckEmpire/",
+            "https://www.instagram.com/canuckempire/",
+            "https://untappd.com/CanuckEmpireBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Cask and Cleaver Brewing",
+        "city": "100 Mile House",
+        "brewery_type": [
+            "Bike Racks",
+            "Brewpub",
+            "Cider",
+            "Craft Sodas",
+            "GF Food Options",
+            "Growler Fills",
+            "Guest Taps",
+            "Non Alc Beer Available",
+            "Patio",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/cask-and-cleaver-brewing/",
+        "address": "175 Cariboo Hwy",
+        "postal_code": "V0K 2E0",
+        "state_province": "BC",
+        "phone": "7784825180",
+        "website_url": "https://www.caskandcleaver.com/",
+        "social_media": [
+            "https://www.facebook.com/caskandcleaverbrewing/",
+            "https://www.instagram.com/caskandcleaver/",
+            "https://untappd.com/Cask_And_Cleaver"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.caskandcleaver.com/tasting-room"
+    },
+    {
+        "name": "Category 12 Brewing",
+        "city": "Victoria",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise",
+            "Vegan-Friendly Beer"
+        ],
+        "url": "https://bcaletrail.ca/breweries/category-12-brewing/",
+        "address": "2200 Unit C Keating Cross Rd",
+        "postal_code": "V8M 2A6",
+        "state_province": "BC",
+        "phone": "2506529668",
+        "website_url": "https://www.category12beer.com/",
+        "social_media": [
+            "https://twitter.com/c12beer",
+            "https://www.facebook.com/C12beer/",
+            "https://www.instagram.com/c12beer/",
+            "https://untappd.com/Category12"
+        ],
+        "country": "Canada",
+        "menu_url": "http://category12beer.com/"
+    },
+    {
+        "name": "Central City Brewers & Distillers",
+        "city": "Surrey",
+        "brewery_type": [
+            "Cocktails",
+            "Dog Friendly Patio",
+            "Food Truck(s)",
+            "Merchandise",
+            "Patio",
+            "Spirits",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/central-city-brewers-distillers/",
+        "address": "11411 Bridgeview Dr",
+        "postal_code": "V3R 2N1",
+        "state_province": "BC",
+        "phone": "6045882337",
+        "website_url": "http://centralcitybrewing.com",
+        "social_media": [
+            "https://twitter.com/centralcitybrew",
+            "https://www.facebook.com/CentralCityBrewing/",
+            "https://www.instagram.com/centralcitybrew/",
+            "https://untappd.com/RedRacerBrew"
+        ],
+        "country": "Canada",
+        "menu_url": "http://centralcitybrewing.com/products/"
+    },
+    {
+        "name": "Coast Mountain Brewing",
+        "city": "Whistler",
+        "brewery_type": [
+            "Bike Racks",
+            "Cider",
+            "Craft Sodas",
+            "GF Food Options",
+            "Gluten-Free Beer",
+            "Growler Fills",
+            "Guest Taps",
+            "Live Music",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Outside food permitted",
+            "Patio",
+            "Snacks",
+            "Videogames",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/coast-mountain-brewing/",
+        "address": "2 - 1212 Alpha Lake",
+        "postal_code": "V8E 0R5",
+        "state_province": "BC",
+        "phone": "6049623230",
+        "website_url": "https://www.coastmountainbrewing.com/",
+        "social_media": [
+            "https://twitter.com/coastmtnbrewing",
+            "https://www.facebook.com/CoastMountainBrewing/",
+            "https://www.instagram.com/coastmountainbeer/",
+            "https://untappd.com/w/coast-mountain-brewing/294125"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.coastmountainbrewing.com/beers/"
+    },
+    {
+        "name": "Connector Brewing",
+        "city": "West Kelowna",
+        "brewery_type": [
+            "Board Games",
+            "Brewpub",
+            "Cider",
+            "Craft Sodas",
+            "GF Food Options",
+            "Gluten-Free Beer",
+            "Growler Fills",
+            "Guest Taps",
+            "Live Music",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/connector-brewing/",
+        "address": "101 - 3310 Carrington Rd",
+        "postal_code": "V4T 3C1",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://connectorbrewing.com/",
+        "social_media": [
+            "https://www.facebook.com/connectorbrewing",
+            "https://www.instagram.com/connectorbrewing/",
+            "https://untappd.com/ConnectorBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "https://connectorbrewing.com/drinks"
+    },
+    {
+        "name": "Container Brewing",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Craft Sodas",
+            "Food Truck(s)",
+            "Live Music",
+            "Merchandise",
+            "Patio",
+            "Snacks",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/container-brewing/",
+        "address": "1216 Franklin St",
+        "postal_code": "V6A 1K1",
+        "state_province": "BC",
+        "phone": "7784040657",
+        "website_url": "https://containerbrewing.ca/",
+        "social_media": [
+            "https://twitter.com/containerbeer",
+            "https://www.facebook.com/containerbrewing",
+            "https://www.instagram.com/containerbrewing/",
+            "https://untappd.com/ContainerBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.drinkcontainer.beer/shop"
+    },
+    {
+        "name": "Copper Brewing",
+        "city": "Kelowna",
+        "brewery_type": [
+            "Cider",
+            "Cocktails",
+            "Growler Fills",
+            "Merchandise",
+            "Snacks",
+            "Videogames",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/copper-brewing/",
+        "address": "1851 Kirschner Rd #102",
+        "postal_code": "V1Y 4N7",
+        "state_province": "BC",
+        "phone": "2507628850",
+        "website_url": "https://copperbrewingco.com/",
+        "social_media": [
+            "https://www.facebook.com/Copperbrewing/",
+            "https://www.instagram.com/copperbrewing/",
+            "https://untappd.com/w/copper-brewing-co/442327"
+        ],
+        "country": "Canada",
+        "menu_url": "https://copperbrewingco.com/on-tap/"
+    },
+    {
+        "name": "CowDog Brew Co",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Cocktails",
+            "Craft Sodas",
+            "Growler Fills",
+            "Guest Taps",
+            "Merchandise",
+            "Patio",
+            "Snacks",
+            "Spirits",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/cowdog-brew-co/",
+        "address": "1338 Franklin St",
+        "postal_code": "V5L 1N9",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://cowdogbrewcompany.ca/",
+        "social_media": [
+            "https://www.facebook.com/profile.php?id=61560883811004",
+            "https://www.instagram.com/cowdogbrewcompany/",
+            "https://untappd.com/Cowdog_Brew_Company_"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Craig Street Brewing",
+        "city": "Duncan",
+        "brewery_type": [
+            "Brewpub",
+            "Growler Fills"
+        ],
+        "url": "https://bcaletrail.ca/breweries/craig-street-brew-pub/",
+        "address": "25 Craig St",
+        "postal_code": "V9L 1V7",
+        "state_province": "BC",
+        "phone": "2507372337",
+        "website_url": "http://www.csbrewery.ca/craigstreetbrewpub",
+        "social_media": [
+            "https://twitter.com/csbrewpub",
+            "https://www.facebook.com/craigstbrewpub",
+            "https://www.instagram.com/csbrewpub",
+            "https://untappd.com/w/craig-street-brewpub/5223"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Crannóg Ales",
+        "city": "Sorrento",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise"
+        ],
+        "url": "https://bcaletrail.ca/breweries/crannog-ales/",
+        "address": "706 Elson Rd",
+        "postal_code": "V0E 2W1",
+        "state_province": "BC",
+        "phone": "2506756847",
+        "website_url": "http://crannogales.com",
+        "social_media": [
+            "https://www.facebook.com/pages/Crannog-Ales/147130382004277/",
+            "https://www.instagram.com/crannogales/",
+            "https://untappd.com/w/crann-g-ales/4651"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "CrossRoads Brewing & Distillery",
+        "city": "Prince George",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "GF Food Options",
+            "Growler Fills",
+            "Guest Taps",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Spirits",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/crossroads-brewing/",
+        "address": "508 George St",
+        "postal_code": "V2L 1R7",
+        "state_province": "BC",
+        "phone": "2506142337",
+        "website_url": "http://crossroadscraft.com",
+        "social_media": [
+            "https://twitter.com/crossroadscraft",
+            "https://www.facebook.com/crossroadscraft/",
+            "https://www.instagram.com/crossroadscraft/",
+            "https://untappd.com/crossroads"
+        ],
+        "country": "Canada",
+        "menu_url": "http://crossroadscraft.com/beer/"
+    },
+    {
+        "name": "Cumberland Brewing Company",
+        "city": "Cumberland",
+        "brewery_type": [
+            "Bike Racks",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Dog Friendly Patio",
+            "GF Food Options",
+            "Growler Fills",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/cumberland-brewing-co/",
+        "address": "2732 Dunsmuir Ave",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "2504002739",
+        "website_url": "http://cumberlandbrewing.com",
+        "social_media": [
+            "https://twitter.com/cumberlandbeer",
+            "https://www.facebook.com/cumberlandbrewingco/",
+            "https://www.instagram.com/cumberlandbrewingcompany/",
+            "https://untappd.com/w/cumberland-brewing-company/176608"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Dageraad Brewing",
+        "city": "Burnaby",
+        "brewery_type": [
+            "Bike Racks",
+            "Cider",
+            "Craft Sodas",
+            "Food Truck(s)",
+            "Growler Fills",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/dageraad-brewing/",
+        "address": "3191 Thunderbird Crescent #114",
+        "postal_code": "V5A 3G1",
+        "state_province": "BC",
+        "phone": "6044202050",
+        "website_url": "https://dageraadbrewing.com/",
+        "social_media": [
+            "https://twitter.com/DageraadBeer",
+            "https://www.facebook.com/DageraadBrewing/",
+            "https://www.instagram.com/dageraadbeer/",
+            "https://untappd.com/Dageraad"
+        ],
+        "country": "Canada",
+        "menu_url": "https://dageraadbrewing.com/beers"
+    },
+    {
+        "name": "Dead Frog Brewery",
+        "city": "Langley",
+        "brewery_type": [
+            "Brewpub",
+            "Cider",
+            "GF Food Options",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Patio",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/dead-frog-brewery/",
+        "address": "#105  8860 201 Street",
+        "postal_code": "V2Y 0C8",
+        "state_province": "BC",
+        "phone": "6048561055",
+        "website_url": "https://deadfrog.ca/",
+        "social_media": [
+            "https://twitter.com/deadfrogbrewery",
+            "https://www.facebook.com/deadfrogbrewery/",
+            "https://www.instagram.com/deadfrogbrewery/",
+            "https://untappd.com/deadfrog"
+        ],
+        "country": "Canada",
+        "menu_url": "http://deadfrog.ca/brews"
+    },
+    {
+        "name": "Deadfall Brewing Company",
+        "city": "Prince George",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Cider",
+            "Craft Sodas",
+            "GF Food Options",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Snacks",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/deadfall-brewing-company/",
+        "address": "1733 Nicholson St South",
+        "postal_code": "V2N 1V7",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://www.deadfallbrewing.com",
+        "social_media": [
+            "https://twitter.com/deadfallbrewco/",
+            "https://www.facebook.com/DeadfallBrewCo",
+            "https://www.instagram.com/deadfallbrewco/",
+            "https://untappd.com/DeadfallBrewCo"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.deadfallbrewing.com/beer-store"
+    },
+    {
+        "name": "Deadhead Brew Co",
+        "city": "Duncan",
+        "brewery_type": [
+            "Board Games",
+            "Cider",
+            "Cocktails",
+            "Dog Friendly Patio",
+            "Gluten-Free Beer",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/deadhead-brew-co-duncan/",
+        "address": "203-5301 Chaster Rd",
+        "postal_code": "V9L 6W4",
+        "state_province": "BC",
+        "phone": "2505970045",
+        "website_url": "http://deadheadbrew.co/",
+        "social_media": [
+            "https://www.facebook.com/profile.php?id=61559554907637",
+            "https://www.instagram.com/deadheadbrewco/"
+        ],
+        "country": "Canada",
+        "menu_url": "https://deadheadbrew.co/"
+    },
+    {
+        "name": "Detonate Brewing Company",
+        "city": "Summerland",
+        "brewery_type": [
+            "Bike Racks",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Dog Friendly Patio",
+            "Growler Fills",
+            "Guest Taps",
+            "Live Music",
+            "Merchandise",
+            "Patio",
+            "Spirits",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/detonate-brewing-company/",
+        "address": "103 - 9503 Cedar Ave",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "2503285294",
+        "website_url": "https://www.detonatebrew.com/",
+        "social_media": [
+            "https://twitter.com/DetonateBrewing",
+            "https://www.facebook.com/DetonateBrewing",
+            "https://www.instagram.com/detonatebrewing/",
+            "https://untappd.com/DetonateBrewingCompany"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Devils’ Bath Brewing",
+        "city": "Port McNeill",
+        "brewery_type": [
+            "Brewpub",
+            "Cider",
+            "Craft Sodas",
+            "Growler Fills",
+            "Patio",
+            "Snacks",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/devils-bath-brewing/",
+        "address": "1616 McNeill Rd",
+        "postal_code": "V0N 2R0",
+        "state_province": "BC",
+        "phone": "2509561616",
+        "website_url": "http://devilsbathbrewing.ca/",
+        "social_media": [
+            "https://www.facebook.com/DevilsBathBrewingCo",
+            "https://www.instagram.com/devilsbathbrewingco/",
+            "https://untappd.com/w/devils-bath-brewing-co/500668"
+        ],
+        "country": "Canada",
+        "menu_url": "https://devilsbathbrewing.ca/the-beer/"
+    },
+    {
+        "name": "Dog Mountain Brewing",
+        "city": "Port Alberni",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise",
+            "Patio",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/dog-mountain-brewing/",
+        "address": "3141 3rd Ave",
+        "postal_code": "V9Y 4C4",
+        "state_province": "BC",
+        "phone": "2507318810",
+        "website_url": "https://dogmountainbrew.com/",
+        "social_media": [
+            "https://www.facebook.com/dogmountainbrewing",
+            "https://www.instagram.com/dogmountainbrewing/",
+            "https://untappd.com/w/dog-mountain-brewing/403394"
+        ],
+        "country": "Canada",
+        "menu_url": "https://dogmountainbrew.com/the-beer"
+    },
+    {
+        "name": "Driftwood Brewery",
+        "city": "Victoria",
+        "brewery_type": [
+            "Bike Racks",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Growler Fills",
+            "Merchandise",
+            "Patio",
+            "Spirits",
+            "Vegan-Friendly Beer",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/driftwood-brewery/",
+        "address": "836 Viewfield Rd",
+        "postal_code": "V9A 4V1",
+        "state_province": "BC",
+        "phone": "2505903555",
+        "website_url": "https://driftwoodbeer.ca/",
+        "social_media": [
+            "https://twitter.com/driftwoodbeer",
+            "https://www.facebook.com/driftwoodbeer/",
+            "https://www.instagram.com/driftwoodbrewery/",
+            "https://untappd.com/DriftwoodBrewery"
+        ],
+        "country": "Canada",
+        "menu_url": "https://driftwoodbeer.com/beers/"
+    },
+    {
+        "name": "East Vancouver Brewing Company",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Cider",
+            "Cocktails",
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/east-van-brewing/",
+        "address": "1675 Venables St",
+        "postal_code": "V5L 2H1",
+        "state_province": "BC",
+        "phone": "6045583822",
+        "website_url": "http://www.eastvanbrewing.com/",
+        "social_media": [
+            "https://twitter.com/EastVanBrewing",
+            "https://www.facebook.com/EastVanBrewing/",
+            "https://instagram.com/EastVanBrewing",
+            "https://untappd.com/EastVanBrewingCo"
+        ],
+        "country": "Canada",
+        "menu_url": "http://www.eastvanbrewing.com/beers/"
+    },
+    {
+        "name": "Electric Bicycle Brewing",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Brewpub",
+            "Cider",
+            "Growler Fills",
+            "Patio"
+        ],
+        "url": "https://bcaletrail.ca/breweries/electric-bicycle-brewing/",
+        "address": "20 East 4th Ave",
+        "postal_code": "V5T1E8",
+        "state_province": "BC",
+        "phone": "2508963774",
+        "website_url": "https://electricbicyclebrewing.com/",
+        "social_media": [
+            "https://www.facebook.com/Electricbicyclebrewing/",
+            "https://www.instagram.com/electricbicyclebrewing/",
+            "https://untappd.com/ElectricBicycleBrewing_"
+        ],
+        "country": "Canada",
+        "menu_url": "https://electricbicyclebrewing.com/pages/rotating-beers-on-tap"
+    },
+    {
+        "name": "Empty Keg Brew House",
+        "city": "Merritt",
+        "brewery_type": [
+            "Cider",
+            "GF Food Options",
+            "Growler Fills",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/empty-keg-brew-house/",
+        "address": "2190 Voght Street",
+        "postal_code": "V1K 1C8",
+        "state_province": "BC",
+        "phone": "2503152337",
+        "website_url": "http://www.emptykegbrewhouse.ca/",
+        "social_media": [
+            "https://www.facebook.com/EmptyKegBrewHouse",
+            "https://www.instagram.com/emptykegbrewhouse"
+        ],
+        "country": "Canada",
+        "menu_url": "https://emptykegbrewhouse-on-line.square.site/"
+    },
+    {
+        "name": "Encore Brewing Company",
+        "city": "Cranbrook",
+        "brewery_type": [
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Videogames",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/encore-brewing-company/",
+        "address": "1400 4 St N",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "7787440460",
+        "website_url": "https://www.encorebrewing.ca/",
+        "social_media": [
+            "https://www.facebook.com/EncoreBeerCBK",
+            "https://www.instagram.com/encorebeer/"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.encorebrewing.ca/taplist"
+    },
+    {
+        "name": "Erie Creek Brewing",
+        "city": "Salmo",
+        "brewery_type": [
+            "Cider",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Snacks",
+            "Videogames",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/erie-creek-brewing/",
+        "address": "117 4th St",
+        "postal_code": "V0G 1Z0",
+        "state_province": "BC",
+        "phone": "2503572479",
+        "website_url": "https://www.eriecreekbrewingco.com/",
+        "social_media": [
+            "https://www.facebook.com/Erie-Creek-Brewing-Company-2119648468326918/",
+            "https://www.instagram.com/erie_creek_brewing/",
+            "https://untappd.com/w/erie-creek-brewing-company/464086"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Faculty Brewing Co.",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/faculty-brewing-co/",
+        "address": "1830 Ontario St",
+        "postal_code": "V5T 2W6",
+        "state_province": "BC",
+        "phone": "7788196794",
+        "website_url": "http://facultybrewing.com",
+        "social_media": [
+            "https://www.facebook.com/facultybrewing/",
+            "https://www.instagram.com/facultybrewing/",
+            "https://untappd.com/w/faculty-brewing/231919"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.facultybrewing.com/the-recipes"
+    },
+    {
+        "name": "Farm Country Brewing",
+        "city": "Langley",
+        "brewery_type": [
+            "Cider",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/farm-country-brewing/",
+        "address": "5 - 20555 56th Avenue",
+        "postal_code": "V3A 3Y9",
+        "state_province": "BC",
+        "phone": "7788192288",
+        "website_url": "https://farmcountrybrewing.com/",
+        "social_media": [
+            "http://www.twitter.com/farmcountrybrew",
+            "https://www.facebook.com/farmcountrybrew/",
+            "http://www.instagram.com/farmcountrybrewco",
+            "https://untappd.com/FarmCountryBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "https://farmcountrybrewing.com/our-beer/"
+    },
+    {
+        "name": "Farmhouse Brewing Co.",
+        "city": "Chilliwack",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Brewpub",
+            "Cider",
+            "Craft Sodas",
+            "Dog Friendly Patio",
+            "GF Food Options",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/farmhouse-brewing/",
+        "address": "6385 Lickman Rd",
+        "postal_code": "V2R 4A9",
+        "state_province": "BC",
+        "phone": "6048249007",
+        "website_url": "http://www.farmhousebrewing.co",
+        "social_media": [
+            "https://www.facebook.com/farmhousebrewingco",
+            "https://www.instagram.com/farmhousebrewingco/",
+            "https://untappd.com/w/farmhouse-brewing-co/478489"
+        ],
+        "country": "Canada",
+        "menu_url": "https://farmhousebrewing.co/beer/"
+    },
+    {
+        "name": "Fern + Cedar Brewing",
+        "city": "Qualicum Beach",
+        "brewery_type": [
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "GF Food Options",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/fern-cedar-brewing/",
+        "address": "680 Berwick Road South",
+        "postal_code": "V9K 1R2",
+        "state_province": "BC",
+        "phone": "2505940052",
+        "website_url": "https://fernandcedar.ca/",
+        "social_media": [
+            "https://www.facebook.com/fernandcedarbrewing/",
+            "https://www.instagram.com/fernandcedarbrewing/",
+            "https://untappd.com/w/fern-cedar-brewing/512791"
+        ],
+        "country": "Canada",
+        "menu_url": "https://fernandcedar.ca/drink-menu/"
+    },
+    {
+        "name": "Fernie Brewing Co.",
+        "city": "Fernie",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/fernie-brewing-co/",
+        "address": "26 Manitou Rd",
+        "postal_code": "V0B 1M5",
+        "state_province": "BC",
+        "phone": "2504237797",
+        "website_url": "https://www.ferniebrewing.com/",
+        "social_media": [
+            "https://twitter.com/FernieBrewingCo",
+            "https://www.facebook.com/Fernie-Brewing-Company-170347052983672/",
+            "https://www.instagram.com/ferniebrewingco/",
+            "https://untappd.com/FernieBrewingCompany"
+        ],
+        "country": "Canada",
+        "menu_url": "https://ferniebrewing.com/craft-beers#"
+    },
+    {
+        "name": "Field House Brewing CHWK",
+        "city": "Chilliwack",
+        "brewery_type": [
+            "GF Food Options",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise"
+        ],
+        "url": "https://bcaletrail.ca/breweries/field-house-chwk/",
+        "address": "#102-9251 Woolly Dog Alley",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "6047762739",
+        "website_url": "http://www.fieldhousebrewing.com",
+        "social_media": "N/A",
+        "country": "Canada",
+        "menu_url": "https://fieldhousebrewing.com/chwk-menu/"
+    },
+    {
+        "name": "Field House Brewing Co ABBY",
+        "city": "Abbotsford",
+        "brewery_type": [
+            "Bike Racks",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Dog Friendly Patio",
+            "GF Food Options",
+            "Growler Fills",
+            "Guest Taps",
+            "Live Music",
+            "Merchandise",
+            "Patio",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/field-house-brewing-co/",
+        "address": "2281 W Railway St",
+        "postal_code": "V2S 2E3",
+        "state_province": "BC",
+        "phone": "6047762739",
+        "website_url": "https://fieldhousebrewing.com/",
+        "social_media": [
+            "https://www.facebook.com/fieldhousebrewing/",
+            "https://www.instagram.com/fieldhousebrewing/",
+            "https://untappd.com/FieldHouseBrewingCo"
+        ],
+        "country": "Canada",
+        "menu_url": "https://fieldhousebrewing.com/fieldlog/goodbeers/"
+    },
+    {
+        "name": "Firehall Brewery",
+        "city": "Oliver",
+        "brewery_type": [
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Patio",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/firehall-brewery/",
+        "address": "6077 Main St",
+        "postal_code": "V0H 1T0",
+        "state_province": "BC",
+        "phone": "7784392337",
+        "website_url": "https://www.firehallbrewery.com/shop",
+        "social_media": [
+            "https://twitter.com/firehallbrewery",
+            "https://www.facebook.com/thefirehallbrewery/",
+            "https://www.instagram.com/firehallbrewery/",
+            "https://untappd.com/FirehallBrewery"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Fisher Peak Brewing",
+        "city": "Cranbrook",
+        "brewery_type": [
+            "Brewpub",
+            "Growler Fills",
+            "Merchandise"
+        ],
+        "url": "https://bcaletrail.ca/breweries/fisher-peak-brewing-company/",
+        "address": "821 Baker St",
+        "postal_code": "V1C 1A2",
+        "state_province": "BC",
+        "phone": "2504267922",
+        "website_url": "http://theheidout.ca",
+        "social_media": [
+            "https://twitter.com/FPBCoHeidout",
+            "https://www.facebook.com/TheHeidOutRestaurantandBrewhouse/",
+            "https://www.instagram.com/theheidout/",
+            "https://untappd.com/FisherPeakBrewingCo"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.theheidout.ca/beer"
+    },
+    {
+        "name": "Five Roads Brewing",
+        "city": "Langley",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "GF Food Options",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Patio",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/five-roads-brewing-co/",
+        "address": "#1 - 6263 202 St",
+        "postal_code": "V2Y 1N1",
+        "state_province": "BC",
+        "phone": "6045396754",
+        "website_url": "https://www.fiveroadsbrewing.com/",
+        "social_media": [
+            "https://twitter.com/fiveroadsbrew",
+            "https://www.facebook.com/fiveroadsbrewingco/",
+            "https://www.instagram.com/fiveroadsbrewingco/",
+            "https://untappd.com/w/five-roads-brewing/429083"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.fiveroadsbrewing.com/menu"
+    },
+    {
+        "name": "Foamers’ Folly Brewing",
+        "city": "Pitt Meadows",
+        "brewery_type": [
+            "Cider",
+            "Cocktails",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Patio",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/foamers-folly-brewing-co/",
+        "address": "19221 122a Ave",
+        "postal_code": "V3Y 2E9",
+        "state_province": "BC",
+        "phone": "6044597837",
+        "website_url": "https://www.foamersfolly.ca/",
+        "social_media": [
+            "https://twitter.com/foamersfolly",
+            "https://www.facebook.com/foamersfolly/",
+            "https://www.instagram.com/foamersfolly/",
+            "https://untappd.com/FoamersFolly"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Four Winds Beach House & Brewery",
+        "city": "Delta",
+        "brewery_type": [
+            "Bike Racks",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "GF Food Options",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Spirits",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/four-winds-beach-house-brewery/",
+        "address": "6350 Market Avenue",
+        "postal_code": "V4L 0B1",
+        "state_province": "BC",
+        "phone": "6049402985",
+        "website_url": "https://fourwindsbrewing.ca/pages/new-southlands",
+        "social_media": [
+            "https://twitter.com/FourWindsBrewCo",
+            "https://www.facebook.com/profile.php?id=61560202815822",
+            "https://www.instagram.com/fourwindsbeachhouseandbrewery"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Four Winds Brewing Co.",
+        "city": "Delta",
+        "brewery_type": [
+            "Bike Racks",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Dog Friendly Patio",
+            "GF Food Options",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/four-winds-brewing/",
+        "address": "4 - 7355 72 St",
+        "postal_code": "V4G 1L5",
+        "state_province": "BC",
+        "phone": "6049409949",
+        "website_url": "https://fourwindsbrewing.ca/",
+        "social_media": [
+            "https://twitter.com/fourwindsbrewco",
+            "https://www.facebook.com/fourwindsbrewingco/",
+            "https://www.instagram.com/fourwindsbrewco/",
+            "https://untappd.com/FourWindsBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "http://www.fourwindsbrewing.ca/beers/1/"
+    },
+    {
+        "name": "Fox Mountain Brewing Co",
+        "city": "Williams Lake",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise"
+        ],
+        "url": "https://bcaletrail.ca/breweries/fox-mountain-brewing/",
+        "address": "215 Donald Road",
+        "postal_code": "V2G 4K4",
+        "state_province": "BC",
+        "phone": "2503923622",
+        "website_url": "https://www.foxmountainbeer.com/",
+        "social_media": [
+            "https://www.facebook.com/FoxMtnBrewCo",
+            "https://www.instagram.com/fox.mountain.brewing/",
+            "https://untappd.com/FoxMountainBrewingCo"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.foxmountainbeer.com/beer"
+    },
+    {
+        "name": "Freddy’s Brewpub",
+        "city": "Kelowna",
+        "brewery_type": [
+            "Brewpub",
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/freddys-brewpub/",
+        "address": "124-948 McCurdy Rd",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "2507658956",
+        "website_url": "https://www.mccurdybowl.com/kelownabrewery",
+        "social_media": [
+            "https://twitter.com/Bowl_N_Brew",
+            "https://www.facebook.com/bowlandbrewkelowna/",
+            "https://www.instagram.com/Bowl_N_Brew/",
+            "https://untappd.com/FreddysBrewpub"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.mccurdybowl.com/kelownabrewery"
+    },
+    {
+        "name": "Fuggles Beer",
+        "city": "Richmond",
+        "brewery_type": [
+            "Cocktails",
+            "Growler Fills",
+            "Merchandise",
+            "Videogames",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/fuggles-warlock-craftworks/",
+        "address": "11220 Horseshoe Way",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "60428577451",
+        "website_url": "https://www.fugglesbeer.com",
+        "social_media": [
+            "https://twitter.com/fugglesbeer",
+            "https://www.facebook.com/FugglesBeer",
+            "https://www.instagram.com/fugglesbeer/",
+            "https://untappd.com/FugglesandWarlockCraftworks"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.fuggleswarlock.com/tasting-room/"
+    },
+    {
+        "name": "Giant’s Head Brewing",
+        "city": "Summerland",
+        "brewery_type": [
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Dog Friendly Patio",
+            "GF Food Options",
+            "Growler Fills",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Spirits",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/giants-head-brewing/",
+        "address": "13224 Victoria Rd N",
+        "postal_code": "V0H 1Z0",
+        "state_province": "BC",
+        "phone": "2504041123",
+        "website_url": "https://www.giantsheadbrewing.ca/",
+        "social_media": [
+            "https://www.facebook.com/giantsheadbrewing",
+            "https://www.instagram.com/giantshead_brewing/",
+            "https://untappd.com/w/giant-s-head-brewing/509624"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.giantsheadbrewing.ca/ourbeers"
+    },
+    {
+        "name": "Gladstone Brewing",
+        "city": "Courtenay",
+        "brewery_type": [
+            "Cider",
+            "GF Food Options",
+            "Growler Fills",
+            "Merchandise",
+            "Snacks",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/gladstone-brewing-co/",
+        "address": "244 4th St",
+        "postal_code": "V9N 1G6",
+        "state_province": "BC",
+        "phone": "2508711111",
+        "website_url": "https://www.gladstonebrewing.ca/",
+        "social_media": [
+            "https://twitter.com/Gladstone_Beer",
+            "https://www.facebook.com/gladstonebrewingco/",
+            "https://www.instagram.com/gladstonebrewingco/",
+            "https://untappd.com/GladstoneBrewingCompany"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.gladstonebrewing.ca/beers"
+    },
+    {
+        "name": "Grey Fox Brewing",
+        "city": "Kelowna",
+        "brewery_type": [
+            "Gluten-Free Beer",
+            "Growler Fills",
+            "Merchandise",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/grey-fox-brewing/",
+        "address": "105 - 310 Hiram Walker Ct",
+        "postal_code": "V4V 0B2",
+        "state_province": "BC",
+        "phone": "2508595518",
+        "website_url": "http://www.greyfoxbrewing.com",
+        "social_media": [
+            "https://www.facebook.com/greyfoxbrewing",
+            "https://www.instagram.com/greyfoxbrewing",
+            "https://untappd.com/GreyFoxBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Grist & Mash Brewery",
+        "city": "Kimberley",
+        "brewery_type": [
+            "Cider",
+            "Cocktails",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Patio",
+            "Snacks",
+            "Videogames",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/grist-mash-brewery/",
+        "address": "345 Wallinger Ave",
+        "postal_code": "V1A 1Z3",
+        "state_province": "BC",
+        "phone": "2504270148",
+        "website_url": "https://gristandmash.com/",
+        "social_media": [
+            "https://www.facebook.com/gristandmashbrewery/",
+            "https://www.instagram.com/gristandmash/",
+            "https://untappd.com/GristAndMashBrewery"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "The Hatching Post",
+        "city": "West Kelowna",
+        "brewery_type": [
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "GF Food Options",
+            "Growler Fills",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/the-hatching-post/",
+        "address": "2850 Boucherie Rd",
+        "postal_code": "V1Z 2G5",
+        "state_province": "BC",
+        "phone": "7787558166",
+        "website_url": "https://hatchingpostbeer.com/",
+        "social_media": [
+            "https://www.facebook.com/thehatchingpost",
+            "https://www.instagram.com/thehatchingpost/"
+        ],
+        "country": "Canada",
+        "menu_url": "https://hatchingpostbeer.com/pages/on-tap-list"
+    },
+    {
+        "name": "Herald Street Brew Works",
+        "city": "Victoria",
+        "brewery_type": [
+            "Cider",
+            "GF Food Options",
+            "Snacks",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/herald-street-brew-works/",
+        "address": "506 Herald Street",
+        "postal_code": "V8W 3N8",
+        "state_province": "BC",
+        "phone": "2505909592",
+        "website_url": "https://www.heraldstreet.com/",
+        "social_media": [
+            "https://www.facebook.com/heraldstbw",
+            "https://www.instagram.com/heraldstbw/",
+            "https://untappd.com/HeraldStreetBrewWorks"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.heraldstreet.com/our-beer"
+    },
+    {
+        "name": "Highway 97 Brewery",
+        "city": "Penticton",
+        "brewery_type": [
+            "Bike Racks",
+            "Brewpub",
+            "Cider",
+            "GF Food Options",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/highway-97-brewing/",
+        "address": "200 Ellis St",
+        "postal_code": "V2A 4L6",
+        "state_province": "BC",
+        "phone": "2504930323",
+        "website_url": "http://hwy97brewery.com",
+        "social_media": [
+            "https://twitter.com/hwy97beer",
+            "https://www.facebook.com/hwy97beer/",
+            "https://www.instagram.com/hwy97beer/",
+            "https://untappd.com/w/highway-97-brewery/262791"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.hwy97brewery.com/our-beers.html"
+    },
+    {
+        "name": "Hornby Island Brewing",
+        "city": "Hornby Island",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise",
+            "Non Alc Beer Available"
+        ],
+        "url": "https://bcaletrail.ca/breweries/hornby-island-brewing/",
+        "address": "6985 St Johns Pt Road",
+        "postal_code": "V0R 1Z0",
+        "state_province": "BC",
+        "phone": "2503359179",
+        "website_url": "http://hornbyislandbrewing.ca/",
+        "social_media": [
+            "https://twitter.com/hornbybrewco",
+            "https://www.facebook.com/hornbyislandbrewingco",
+            "https://www.instagram.com/hornbyislandbrewingco/",
+            "https://untappd.com/HornbyIslandBrewingCompany"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.hornbyislandbrewing.ca/beer"
+    },
+    {
+        "name": "House of Funk Brewing",
+        "city": "North Vancouver",
+        "brewery_type": [
+            "Growler Fills",
+            "Live Music",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/house-of-funk-brewing/",
+        "address": "350 E Esplanade",
+        "postal_code": "V7L 1A4",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://www.houseoffunkbrewing.com/",
+        "social_media": [
+            "https://www.facebook.com/houseoffunkbrewing",
+            "https://www.instagram.com/houseoffunkbrewing/",
+            "https://untappd.com/House_Of_Funk"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.houseoffunkbrewing.com/beer"
+    },
+    {
+        "name": "Howe Sound Brewing",
+        "city": "Squamish",
+        "brewery_type": [
+            "Bike Racks",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Dog Friendly Patio",
+            "GF Food Options",
+            "Gluten-Free Beer",
+            "Growler Fills",
+            "Guest Taps",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Spirits",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/howe-sound-brewing/",
+        "address": "37801 Cleveland Ave",
+        "postal_code": "V8B 0S8",
+        "state_province": "BC",
+        "phone": "6048922603",
+        "website_url": "http://howesound.com",
+        "social_media": [
+            "https://twitter.com/howesoundbeer",
+            "https://www.facebook.com/HoweSoundBrewing",
+            "https://www.instagram.com/Howesoundbrewing/",
+            "https://untappd.com/HoweSoundBrewingCo"
+        ],
+        "country": "Canada",
+        "menu_url": "http://www.howesound.com/copy-of-our-brews"
+    },
+    {
+        "name": "Hoyne Brewing",
+        "city": "Victoria",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise"
+        ],
+        "url": "https://bcaletrail.ca/breweries/hoyne-brewing-co/",
+        "address": "2740 Bridge St",
+        "postal_code": "V8T 5C5",
+        "state_province": "BC",
+        "phone": "2505905758",
+        "website_url": "http://hoynebrewing.ca",
+        "social_media": [
+            "https://twitter.com/HoyneBeer",
+            "https://www.facebook.com/HoyneBrewing/",
+            "https://www.instagram.com/hoynebrewing/",
+            "https://untappd.com/hoynebrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "île Sauvage Brewing",
+        "city": "Victoria",
+        "brewery_type": [
+            "Cider",
+            "Food Truck(s)",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/ile-sauvage-brewing/",
+        "address": "2960 Bridge Street",
+        "postal_code": "V8T 4T3",
+        "state_province": "BC",
+        "phone": "2505089386",
+        "website_url": "http://www.ilesauvage.com",
+        "social_media": [
+            "https://twitter.com/ilesauvagebeer",
+            "https://www.facebook.com/ilesauvagebrewing/",
+            "https://www.instagram.com/ilesauvagebrewing/",
+            "https://untappd.com/IleSauvage"
+        ],
+        "country": "Canada",
+        "menu_url": "http://ilesauvage.com/beer-list/"
+    },
+    {
+        "name": "Iron Road Brewing",
+        "city": "Kamloops",
+        "brewery_type": [
+            "Brewpub",
+            "Growler Fills",
+            "Live Music"
+        ],
+        "url": "https://bcaletrail.ca/breweries/iron-road-brewing/",
+        "address": "980 Camosun Cres",
+        "postal_code": "V2C 6G2",
+        "state_province": "BC",
+        "phone": "7787658160",
+        "website_url": "http://www.ironroadbrewing.ca",
+        "social_media": [
+            "https://twitter.com/@ironroadbrewing",
+            "https://www.facebook.com/Iron-Road-Brewing-1264130683634590/",
+            "https://www.instagram.com/ironroadbrewing",
+            "https://untappd.com/Iron_Road_Brewing"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Jackknife Brewing",
+        "city": "Kelowna",
+        "brewery_type": [
+            "Cider",
+            "Patio",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/jackknife-brewing/",
+        "address": "727 Baillie Ave",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://www.jackknife.beer/",
+        "social_media": [
+            "https://www.facebook.com/jackknifebrewing/",
+            "https://www.instagram.com/jackknifebrewing",
+            "https://untappd.com/JackknifeBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.jackknife.beer/our-beer"
+    },
+    {
+        "name": "Kelowna Beer Institute",
+        "city": "Kelowna",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Dog Friendly Patio",
+            "GF Food Options",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Spirits",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/kelowna-beer-institute/",
+        "address": "1346 Water St",
+        "postal_code": "V1Y 1J1",
+        "state_province": "BC",
+        "phone": "7784840306",
+        "website_url": "http://kelownabeerinstitute.com/",
+        "social_media": [
+            "https://www.facebook.com/KelownaBeerInstitute",
+            "https://www.instagram.com/kelownabeerinstitute/",
+            "https://untappd.com/treebeer"
+        ],
+        "country": "Canada",
+        "menu_url": "http://www.treebrewingbeerinstitute.com/our-beers/"
+    },
+    {
+        "name": "Kettle River Brewing Co.",
+        "city": "Kelowna",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Dog Friendly Patio",
+            "Growler Fills",
+            "Guest Taps",
+            "Live Music",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/kettle-river-brewing-co/",
+        "address": "731 Baillie Ave",
+        "postal_code": "V1Y 7E9",
+        "state_province": "BC",
+        "phone": "2508625115",
+        "website_url": "http://kettleriverbrewing.ca",
+        "social_media": [
+            "https://twitter.com/kettleriverbrew",
+            "http://www.facebook.com/kettleriverbrew",
+            "https://www.instagram.com/kettleriverbrew/",
+            "https://untappd.com/w/kettle-river-brewing/270361"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "KPU Brew Lab | Kwantlen Polytechnic University",
+        "city": "Langley",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/kwantlen-polytechnic-university-brewing/",
+        "address": "20901 Langley Bypass",
+        "postal_code": "V3A 8G9",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "http://www.kpu.ca/brew",
+        "social_media": [
+            "https://twitter.com/kpubrew",
+            "https://www.facebook.com/kpubrew/",
+            "https://www.instagram.com/kpubrew",
+            "https://untappd.com/KPUBrewingLab"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.kpu.ca/beer-sales"
+    },
+    {
+        "name": "La Cerveceria Astilleros",
+        "city": "North Vancouver",
+        "brewery_type": [
+            "Brewpub",
+            "Cocktails",
+            "GF Food Options",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Patio",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/la-cerveceria-astilleros/",
+        "address": "226 Esplanade East",
+        "postal_code": "V7L 1A3",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "http://www.cerveceria-astilleros.com",
+        "social_media": [
+            "https://www.facebook.com/cerveceriaastilleros/",
+            "https://www.instagram.com/lacerveceriaastilleros/",
+            "https://untappd.com/w/la-cerveceria-astilleros/473297"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.cerveceria-astilleros.com/shop-beer"
+    },
+    {
+        "name": "Lakesider Brewing Co.",
+        "city": "West Kelowna",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Dog Friendly Patio",
+            "GF Food Options",
+            "Gluten-Free Beer",
+            "Growler Fills",
+            "Guest Taps",
+            "Live Music",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Spirits",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/lakesider-brewing/",
+        "address": "835 Anders Rd W.",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "2367661144",
+        "website_url": "https://lakesiderbrewing.com/",
+        "social_media": [
+            "https://www.facebook.com/lakesiderbeer/",
+            "https://www.instagram.com/lakesiderbeer/",
+            "https://untappd.com/w/lakesider-brewing/494371"
+        ],
+        "country": "Canada",
+        "menu_url": "https://lakesiderbrewing.com/beer-%26-other-drinks"
+    },
+    {
+        "name": "Land & Sea Brewing",
+        "city": "Comox",
+        "brewery_type": [
+            "Bike Racks",
+            "Cider",
+            "GF Food Options",
+            "Gluten-Free Beer",
+            "Growler Fills",
+            "Live Music",
+            "Snacks",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/land-and-sea-brewing/",
+        "address": "2040 Guthrie Rd",
+        "postal_code": "V9M 3P6",
+        "state_province": "BC",
+        "phone": "2509415577",
+        "website_url": "https://www.landandseabrewing.ca/",
+        "social_media": [
+            "https://www.facebook.com/landandseabeer/",
+            "https://www.instagram.com/landandseabeer/",
+            "https://untappd.com/LandandSeaBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.landandseabrewing.ca/our-beers"
+    },
+    {
+        "name": "Lighthouse Brewing",
+        "city": "Victoria",
+        "brewery_type": [
+            "Bike Racks",
+            "Growler Fills",
+            "Merchandise",
+            "Patio",
+            "Snacks",
+            "Vegan Options"
+        ],
+        "url": "https://bcaletrail.ca/breweries/lighthouse-brewing-company/",
+        "address": "836 Devonshire Rd",
+        "postal_code": "V9A 4T4",
+        "state_province": "BC",
+        "phone": "2503836500",
+        "website_url": "http://lighthousebrewing.com",
+        "social_media": [
+            "https://twitter.com/LIGHTHOUSEBEER",
+            "https://www.facebook.com/LIGHTHOUSEBEER/",
+            "https://www.instagram.com/LIGHTHOUSEBEER/",
+            "https://untappd.com/lighthousebrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "http://www.lighthousebrewing.com/"
+    },
+    {
+        "name": "Lillooet Brewing Company",
+        "city": "Lillooet",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Cider",
+            "Dog Friendly Patio",
+            "Food Truck(s)",
+            "Growler Fills",
+            "Guest Taps",
+            "Merchandise",
+            "Patio",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/lillooet-brewing-co/",
+        "address": "104 Main St",
+        "postal_code": "V0K 1V0",
+        "state_province": "BC",
+        "phone": "2364171133",
+        "website_url": "https://lillooetbrewing.com/",
+        "social_media": [
+            "https://www.facebook.com/LillooetBrewing",
+            "https://www.instagram.com/lillooetbeer/"
+        ],
+        "country": "Canada",
+        "menu_url": "https://lillooetbeer.ca/beer/"
+    },
+    {
+        "name": "Locality Brewing",
+        "city": "Langley",
+        "brewery_type": [],
+        "url": "https://bcaletrail.ca/breweries/locality-brewing/",
+        "address": "7111 252 Street",
+        "postal_code": "V4W 1H6",
+        "state_province": "BC",
+        "phone": "7788551376",
+        "website_url": "https://localitybrewing.ca/",
+        "social_media": [
+            "https://twitter.com/LocalityBrewing",
+            "https://www.facebook.com/localitybrewing/",
+            "https://www.instagram.com/localitybrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "https://localitybrewing.ca/our-beers/"
+    },
+    {
+        "name": "Longwood Brew Pub & Restaurant",
+        "city": "Nanaimo",
+        "brewery_type": [
+            "Bike Racks",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "GF Food Options",
+            "Growler Fills",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Spirits",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/longwood-brewpub/",
+        "address": "5775 Turner Rd",
+        "postal_code": "V9T 6L8",
+        "state_province": "BC",
+        "phone": "2507298225",
+        "website_url": "http://www.longwoodbrewpub.com/",
+        "social_media": [
+            "https://www.facebook.com/longwoodbrewpub",
+            "http://www.instagram.com/longwoodbrewpub/"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Longwood Brewery on Boxwood Road",
+        "city": "Nanaimo",
+        "brewery_type": [
+            "Dog Friendly Patio",
+            "Growler Fills",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/longwood-brewery/",
+        "address": "101A - 2046 Boxwood Rd",
+        "postal_code": "V9S 5W7",
+        "state_province": "BC",
+        "phone": "2505912739",
+        "website_url": "http://longwoodbeer.com",
+        "social_media": [
+            "https://twitter.com/longwoodbrewery",
+            "https://www.facebook.com/profile.php?id=100086750047819",
+            "https://www.instagram.com/longwoodbrewery/",
+            "https://untappd.com/LongwoodBreweryNanaimo"
+        ],
+        "country": "Canada",
+        "menu_url": "http://www.longwoodbeer.com/#"
+    },
+    {
+        "name": "LoveShack Libations",
+        "city": "Qualicum Beach",
+        "brewery_type": [
+            "Food Truck(s)",
+            "Merchandise",
+            "Outside food permitted",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/loveshack-libations/",
+        "address": "4134 Island Hwy W #1",
+        "postal_code": "V9K 2B2",
+        "state_province": "BC",
+        "phone": "6043192484",
+        "website_url": "http://loveshacklibations.com",
+        "social_media": [
+            "https://twitter.com/LoveShackBeer",
+            "https://www.facebook.com/loveshacklibations/",
+            "https://www.instagram.com/loveshacklibations/",
+            "https://untappd.com/w/loveshack-libations/325191"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Luppolo Brewing Company",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Bike Racks",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Spirits",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/luppolo-brewing-company/",
+        "address": "1123 Venables St",
+        "postal_code": "V6A 2C6",
+        "state_province": "BC",
+        "phone": "6042554997",
+        "website_url": "http://luppolobrewing.ca",
+        "social_media": [
+            "https://twitter.com/luppolo_brewing",
+            "https://www.facebook.com/luppolobrewingco/",
+            "https://www.instagram.com/luppolo_brewing/",
+            "https://untappd.com/w/luppolo-brewing-company/281667"
+        ],
+        "country": "Canada",
+        "menu_url": "https://luppolobrewing.ca/beer-birra/"
+    },
+    {
+        "name": "Main Street Brewing",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise"
+        ],
+        "url": "https://bcaletrail.ca/breweries/main-street-brewing/",
+        "address": "261 E 7th Ave",
+        "postal_code": "V5T 0B4",
+        "state_province": "BC",
+        "phone": "6043367711",
+        "website_url": "http://mainstreetbeer.ca",
+        "social_media": [
+            "https://www.facebook.com/MainStreetBeer/",
+            "https://www.instagram.com/mainstreetbeer/",
+            "https://untappd.com/MainStreetBrewingCompany"
+        ],
+        "country": "Canada",
+        "menu_url": "http://mainstreetbeer.ca/beer-food/"
+    },
+    {
+        "name": "Mariner Brewing",
+        "city": "Coquitlam",
+        "brewery_type": [
+            "Board Games",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Dog Friendly Patio",
+            "Food Truck(s)",
+            "Growler Fills",
+            "Guest Taps",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Spirits",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/mariner-brewing/",
+        "address": "H-1100 Lansdowne Drive",
+        "postal_code": "V3B 5E2",
+        "state_province": "BC",
+        "phone": "6044674160",
+        "website_url": "https://www.marinerbrewing.ca/",
+        "social_media": [
+            "https://twitter.com/MarinerBeer",
+            "https://www.facebook.com/pg/marinerbeer",
+            "https://www.instagram.com/marinerbeer/"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.marinerbrewing.ca/our-beer"
+    },
+    {
+        "name": "Mayne Island Brewing Company",
+        "city": "Mayne Island",
+        "brewery_type": [
+            "Merchandise",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/mayne-island-brewing-company/",
+        "address": "490 Fernhill Road",
+        "postal_code": "V0N 2J2",
+        "state_province": "BC",
+        "phone": "2505260711",
+        "website_url": "https://mayneislandbrewing.com/",
+        "social_media": [
+            "https://www.facebook.com/MayneIslandBrewing/",
+            "https://www.instagram.com/mayneislandbrewingco/",
+            "https://untappd.com/w/mayne-island-brewing-company/316870"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.mayneislandbrewingco.com/beers"
+    },
+    {
+        "name": "Mighty Peace Brewing",
+        "city": "Fort St. John",
+        "brewery_type": [
+            "Cider",
+            "Cocktails",
+            "Growler Fills",
+            "Guest Taps",
+            "Live Music",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/mighty-peace/",
+        "address": "10128 95 Ave",
+        "postal_code": "V1J 1J1",
+        "state_province": "BC",
+        "phone": "2507855553",
+        "website_url": "http://www.Mightypeacebrewing.ca",
+        "social_media": [
+            "https://twitter.com/MightyPeaceBeer",
+            "https://www.facebook.com/MightyPeaceBrewing/",
+            "https://www.instagram.com/mightypeacebrewing/",
+            "https://untappd.com/Mighty_Peace_Brewing_Co"
+        ],
+        "country": "Canada",
+        "menu_url": "https://mightypeacebrewing.ca/beers"
+    },
+    {
+        "name": "Mile Zero Brewing",
+        "city": "Metchosin",
+        "brewery_type": [
+            "Growler Fills",
+            "Patio"
+        ],
+        "url": "https://bcaletrail.ca/breweries/mile-zero-brewing/",
+        "address": "4495 Happy Valley Road",
+        "postal_code": "V9C 3Z3",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://www.milezerobrewing.ca/",
+        "social_media": [
+            "https://www.facebook.com/milezerobrewing",
+            "https://www.instagram.com/milezerobrewingca/",
+            "https://untappd.com/MileZeroBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.milezerobrewing.ca/menu"
+    },
+    {
+        "name": "Moody Ales & Co.",
+        "city": "Port Moody",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Cocktails",
+            "Craft Sodas",
+            "Growler Fills",
+            "Merchandise",
+            "Patio",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/moody-ales/",
+        "address": "2601 Murray St",
+        "postal_code": "V3H 3R5",
+        "state_province": "BC",
+        "phone": "6044923911",
+        "website_url": "http://www.Moodyales.com",
+        "social_media": [
+            "https://www.facebook.com/MoodyAles/",
+            "https://www.instagram.com/MoodyAles/",
+            "https://untappd.com/MoodyAles"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.moodyales.com/collections/our-beer"
+    },
+    {
+        "name": "Mount Arrowsmith Brewing",
+        "city": "Parksville",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise"
+        ],
+        "url": "https://bcaletrail.ca/breweries/mount-arrowsmith-brewing-co/",
+        "address": "425 Stanford Avenue East",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "2509510125",
+        "website_url": "https://arrowsmithbrewing.com/shop/",
+        "social_media": [
+            "https://www.facebook.com/MABrewing",
+            "https://www.instagram.com/MABrewing/",
+            "https://untappd.com/MountArrowsmith"
+        ],
+        "country": "Canada",
+        "menu_url": "https://arrowsmithbrewing.com/bottles-cans/"
+    },
+    {
+        "name": "Mountainview Brewing",
+        "city": "Hope",
+        "brewery_type": [
+            "Board Games",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Food Truck(s)",
+            "GF Food Options",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Patio",
+            "Snacks",
+            "Videogames",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/mountainview-brewing/",
+        "address": "390 Old Hope Princeton Way",
+        "postal_code": "V0X 1L0",
+        "state_province": "BC",
+        "phone": "2363551333",
+        "website_url": "https://mountainviewbrewing.ca/",
+        "social_media": [
+            "https://twitter.com/mtnviewbrewing",
+            "https://www.facebook.com/mtnviewbrewing/",
+            "https://www.instagram.com/mtnviewbrewing/",
+            "https://untappd.com/Mountainview_Brewing_Co"
+        ],
+        "country": "Canada",
+        "menu_url": "https://mountainviewbrewing.ca/collections/beer"
+    },
+    {
+        "name": "Mt. Begbie Brewing",
+        "city": "Revelstoke",
+        "brewery_type": [
+            "Brewpub",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/mt-begbie-brewing-company/",
+        "address": "2155 Oak Drive",
+        "postal_code": "V0E 2S1",
+        "state_province": "BC",
+        "phone": "2508372756",
+        "website_url": "http://mt-begbie.com",
+        "social_media": [
+            "https://twitter.com/MtBegbiebeer",
+            "https://www.facebook.com/mtbegbiebeer/",
+            "https://www.instagram.com/mtbegbiebeer/",
+            "https://untappd.com/MtBegbieBrewingCo"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.mt-begbie.com/our-beers/"
+    },
+    {
+        "name": "Neighbourhood Brewing",
+        "city": "Penticton",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Brewpub",
+            "Cider",
+            "Dog Friendly Patio",
+            "GF Food Options",
+            "Growler Fills",
+            "Guest Taps",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Spirits",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/neighbourhood-brewing/",
+        "address": "187 Westminster Ave.",
+        "postal_code": "V2A 1J7",
+        "state_province": "BC",
+        "phone": "7783800841",
+        "website_url": "https://neighbourhoodbrewing.com/",
+        "social_media": [
+            "https://www.facebook.com/NBHDBeer",
+            "https://www.instagram.com/nbhdbeer/",
+            "https://untappd.com/NeighbourhoodBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "https://neighbourhoodbrewing.com/beer/our-beer/"
+    },
+    {
+        "name": "Nelson Brewing Company",
+        "city": "Nelson",
+        "brewery_type": [
+            "Bike Racks",
+            "Growler Fills",
+            "Merchandise",
+            "Patio",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/nelson-brewing-company/",
+        "address": "512 Latimer St",
+        "postal_code": "V1L 4V1",
+        "state_province": "BC",
+        "phone": "2503523582",
+        "website_url": "http://nelsonbrewing.com",
+        "social_media": [
+            "https://www.facebook.com/Nelson-Brewing-Company-192612907436095/",
+            "https://www.instagram.com/nelsonbrewingcompany/",
+            "https://untappd.com/w/nelson-brewing-company/902"
+        ],
+        "country": "Canada",
+        "menu_url": "https://nelsonbrewing.com/our-beers/"
+    },
+    {
+        "name": "Noble Pig Brewhouse",
+        "city": "Kamloops",
+        "brewery_type": [
+            "Brewpub",
+            "Cider",
+            "Growler Fills",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/the-noble-pig-brewhouse/",
+        "address": "650 Victoria St",
+        "postal_code": "V2C 2B4",
+        "state_province": "BC",
+        "phone": "7784715999",
+        "website_url": "http://thenoblepig.ca",
+        "social_media": [
+            "https://twitter.com/thenoblepigbrew",
+            "https://www.facebook.com/The-Noble-Pig-Brewhouse-101556243242933/",
+            "https://www.instagram.com/thenoblepigbrew/",
+            "https://untappd.com/w/noble-pig-brewhouse/8623"
+        ],
+        "country": "Canada",
+        "menu_url": "http://www.thenoblepig.ca/our-brew/"
+    },
+    {
+        "name": "North Point Brewing",
+        "city": "North Vancouver",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise"
+        ],
+        "url": "https://bcaletrail.ca/breweries/north-point-brewing/",
+        "address": "266 1st Street East",
+        "postal_code": "V7L 1B3",
+        "state_province": "BC",
+        "phone": "6042500234",
+        "website_url": "https://www.northpointbrewing.com",
+        "social_media": [
+            "https://www.facebook.com/northpointbrewing",
+            "https://www.instagram.com/northpointbrewing/",
+            "https://untappd.com/NorthPoint"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Northpaw Brew Co.",
+        "city": "Port Coquitlam",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/northpaw-brew-co/",
+        "address": "2150-570 Sherling Pl",
+        "postal_code": "V3E 3G7",
+        "state_province": "BC",
+        "phone": "6046445439",
+        "website_url": "https://www.northpawbrewco.com/",
+        "social_media": [
+            "https://twitter.com/northpawbrewco",
+            "https://www.facebook.com/northpawbrewco/",
+            "https://www.instagram.com/northpawbrewco/",
+            "https://untappd.com/NorthpawBrewCo"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.northpawbrewco.com/our-beers"
+    },
+    {
+        "name": "Off The Rail Brewing Co",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/off-the-rail-brewing-co/",
+        "address": "1351 Adanac St",
+        "postal_code": "V5L 2C4",
+        "state_province": "BC",
+        "phone": "6045635767",
+        "website_url": "http://offtherailbrewing.com",
+        "social_media": [
+            "https://twitter.com/offtherailbeer",
+            "https://www.facebook.com/Off-The-Rail-Brewing-Co-286997414805699/",
+            "https://www.instagram.com/offtherailbeer/",
+            "https://untappd.com/w/off-the-rail-brewing/186988"
+        ],
+        "country": "Canada",
+        "menu_url": "http://offtherailbrewing.com/our-brewery/#our-beers"
+    },
+    {
+        "name": "The Office Brewery",
+        "city": "Kelowna",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Growler Fills",
+            "Guest Taps",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/the-office-brewery/",
+        "address": "301 - 890 Clement Ave",
+        "postal_code": "V1Y 7E4",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://officebrewery.ca/",
+        "social_media": [
+            "https://www.facebook.com/theofficebrewery",
+            "https://www.instagram.com/theofficebrewery/"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.officebrewery.ca/menu"
+    },
+    {
+        "name": "Old Abbey Ales",
+        "city": "Abbotsford",
+        "brewery_type": [
+            "Board Games",
+            "Cider",
+            "Craft Sodas",
+            "Dog Friendly Patio",
+            "Growler Fills",
+            "Guest Taps",
+            "Merchandise",
+            "Patio",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/old-abbey-ales/",
+        "address": "1A - 30321 Fraser Hwy",
+        "postal_code": "V4X 1T3",
+        "state_province": "BC",
+        "phone": "6046075104",
+        "website_url": "http://oldabbeyales.com",
+        "social_media": [
+            "https://www.instagram.com/oldabbeyalesbrewery/",
+            "https://untappd.com/OldAbbeyAles"
+        ],
+        "country": "Canada",
+        "menu_url": "https://oldabbeyales.com/pages/on-tap-now"
+    },
+    {
+        "name": "Old Yale Brewing",
+        "city": "Chilliwack",
+        "brewery_type": [
+            "Board Games",
+            "Cider",
+            "Cocktails",
+            "GF Food Options",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Patio",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/old-yale-brewing-co/",
+        "address": "44550 S Sumas Rd #404",
+        "postal_code": "V2R 5M3",
+        "state_province": "BC",
+        "phone": "6043922011",
+        "website_url": "http://oldyalebrewing.com",
+        "social_media": [
+            "https://twitter.com/oldyalebrewing",
+            "https://www.facebook.com/oldyalebrewing/",
+            "https://www.instagram.com/oldyalebrewing/",
+            "https://untappd.com/oldyalebrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "http://www.oldyalebrewing.com/our-beer/"
+    },
+    {
+        "name": "Old Yale Brewing Abbotsford",
+        "city": "Abbotsford",
+        "brewery_type": [
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Growler Fills",
+            "Guest Taps",
+            "Live Music",
+            "Merchandise",
+            "Patio",
+            "Videogames",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/old-yale-brewing-abbotsford/",
+        "address": "33738 Laurel Street",
+        "postal_code": "V2S 1X2",
+        "state_province": "BC",
+        "phone": "6043922011",
+        "website_url": "https://www.oldyalebrewing.com/old-yale-abbotsford",
+        "social_media": [
+            "https://twitter.com/oldyalebrewing",
+            "https://www.facebook.com/oldyalebrewing/",
+            "https://www.instagram.com/oldyalebrewing/",
+            "https://untappd.com/oldyalebrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.oldyalebrewing.com/abbotsford-on-tap"
+    },
+    {
+        "name": "Over Time Beer Works",
+        "city": "Kimberley",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise",
+            "Patio",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/over-time-beer-works/",
+        "address": "136 Wallinger Ave",
+        "postal_code": "V1A 1Y8",
+        "state_province": "BC",
+        "phone": "2504272426",
+        "website_url": "http://overtimebeer.ca",
+        "social_media": [
+            "https://twitter.com/OverTimeBeer",
+            "https://www.facebook.com/OverTimeBeer/",
+            "https://www.instagram.com/overtimebeer/",
+            "https://untappd.com/OverTimeBeerWorks"
+        ],
+        "country": "Canada",
+        "menu_url": "http://www.overtimebeer.ca/beer"
+    },
+    {
+        "name": "Parallel 49 Brewing",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/parallel-49-brewing/",
+        "address": "1950 Triumph St",
+        "postal_code": "V5L 1K5",
+        "state_province": "BC",
+        "phone": "6045582739",
+        "website_url": "http://parallel49brewing.com",
+        "social_media": [
+            "https://twitter.com/parallel49beer",
+            "https://www.facebook.com/parallel49brewing/",
+            "https://www.instagram.com/parallel49beer/",
+            "https://untappd.com/Parallel49Brewing"
+        ],
+        "country": "Canada",
+        "menu_url": "http://parallel49brewing.com/beers/"
+    },
+    {
+        "name": "The Parkside Brewery",
+        "city": "Port Moody",
+        "brewery_type": [
+            "Dog Friendly Patio",
+            "Food Truck(s)",
+            "Growler Fills",
+            "Merchandise",
+            "Patio",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/parkside-brewery/",
+        "address": "2731 Murray St",
+        "postal_code": "V3H 3R5",
+        "state_province": "BC",
+        "phone": "6044922731",
+        "website_url": "http://theparksidebrewery.com",
+        "social_media": [
+            "https://twitter.com/parksidebrewery",
+            "https://www.facebook.com/parksidebrewery/",
+            "https://www.instagram.com/parksidebrewery/",
+            "https://untappd.com/w/the-parkside-brewery/256503"
+        ],
+        "country": "Canada",
+        "menu_url": "http://www.theparksidebrewery.com/category/all-beers/year-round/"
+    },
+    {
+        "name": "The Patch Brewery",
+        "city": "Maple Ridge",
+        "brewery_type": [
+            "Cider",
+            "Gluten-Free Beer",
+            "Patio"
+        ],
+        "url": "https://bcaletrail.ca/breweries/the-patch-brewery/",
+        "address": "12745 Laity St",
+        "postal_code": "V4R 2P3",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://thepatchbrewery.com/",
+        "social_media": [
+            "https://www.facebook.com/p/The-Patch-Brewery-100063584870966/",
+            "https://www.instagram.com/thepatchbrewery"
+        ],
+        "country": "Canada",
+        "menu_url": "https://thepatchbrewery.com/pages/menu"
+    },
+    {
+        "name": "Patina Brewing",
+        "city": "Port Coquitlam",
+        "brewery_type": [
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/patina-brewing/",
+        "address": "2332 Marpole Avenue",
+        "postal_code": "V3C 2A2",
+        "state_province": "BC",
+        "phone": "6044740025",
+        "website_url": "https://patinabrewing.com/",
+        "social_media": [
+            "https://www.facebook.com/PatinaBrewing",
+            "https://www.instagram.com/patinabrewing/",
+            "https://untappd.com/PatinaBrewingCompany"
+        ],
+        "country": "Canada",
+        "menu_url": "https://patinabrewing.com/on-tap/"
+    },
+    {
+        "name": "Pemberton Brewing Co.",
+        "city": "Pemberton",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Cider",
+            "Craft Sodas",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Patio",
+            "Snacks",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/pemberton-brewing/",
+        "address": "1936 Stonecutter Place Units 5 and 6",
+        "postal_code": "V0N 2K0",
+        "state_province": "BC",
+        "phone": "6048942337",
+        "website_url": "http://www.pembertonbrewing.ca/",
+        "social_media": [
+            "https://www.facebook.com/pembertonbrewingco/",
+            "https://www.instagram.com/pembertonbrewingco/",
+            "https://untappd.com/PembertonBrewingCo"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Persephone Brewing",
+        "city": "Gibsons",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Food Truck(s)",
+            "Growler Fills",
+            "Guest Taps",
+            "Merchandise",
+            "Patio",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/persephone-brewing-co/",
+        "address": "1053 Stewart Rd",
+        "postal_code": "V0N 1V7",
+        "state_province": "BC",
+        "phone": "7784623007",
+        "website_url": "http://persephonebrewing.com",
+        "social_media": [
+            "https://twitter.com/Persephonebeer",
+            "https://www.facebook.com/PersephoneBrewing/",
+            "https://www.instagram.com/persephonebrewing/",
+            "https://untappd.com/PersephoneBrewingCompany"
+        ],
+        "country": "Canada",
+        "menu_url": "http://www.persephonebrewing.com/the-beer/"
+    },
+    {
+        "name": "Phillips Brewing & Malting Co.",
+        "city": "Victoria",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "GF Food Options",
+            "Growler Fills",
+            "Guest Taps",
+            "Live Music",
+            "Merchandise",
+            "Patio",
+            "Spirits",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/phillips-brewing-malting-co/",
+        "address": "2010 Government St",
+        "postal_code": "V8T 4P1",
+        "state_province": "BC",
+        "phone": "2503801912",
+        "website_url": "http://phillipsbeer.com",
+        "social_media": [
+            "https://twitter.com/phillipsbeer",
+            "https://www.facebook.com/phillipsbeer/",
+            "https://www.instagram.com/phillipsbeer/",
+            "https://untappd.com/w/phillips-brewing-company/1472"
+        ],
+        "country": "Canada",
+        "menu_url": "https://phillipsbeer.com/the-beers/"
+    },
+    {
+        "name": "Poco Brothers Brewing Co",
+        "city": "Port Coquitlam",
+        "brewery_type": [
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Dog Friendly Patio",
+            "GF Food Options",
+            "Guest Taps",
+            "Non Alc Beer Available",
+            "Patio",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/poco-brothers-brewing-co/",
+        "address": "1979 Brown St",
+        "postal_code": "V3C 2N4",
+        "state_province": "BC",
+        "phone": "6049418822",
+        "website_url": "https://pocobrothersbrewing.com/",
+        "social_media": [
+            "https://www.facebook.com/PoCoBrosBrews",
+            "https://www.instagram.com/pocobrothersbrewing",
+            "https://untappd.com/PocoBrothersBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Post & Row Brewing Co.",
+        "city": "Dawson Creek",
+        "brewery_type": [
+            "Brewpub",
+            "Cider",
+            "GF Food Options",
+            "Growler Fills",
+            "Guest Taps",
+            "Live Music",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/post-row-brewing/",
+        "address": "801 102 Ave",
+        "postal_code": "V1G 2B4",
+        "state_province": "BC",
+        "phone": "7788430356",
+        "website_url": "https://postandrow.ca/",
+        "social_media": [
+            "https://www.facebook.com/postandrow/",
+            "https://www.instagram.com/postandrow/"
+        ],
+        "country": "Canada",
+        "menu_url": "https://postandrow.ca/menus/#craft-beer-menu"
+    },
+    {
+        "name": "Powell Brewery",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Board Games",
+            "Cider",
+            "Craft Sodas",
+            "Food Truck(s)",
+            "Gluten-Free Beer",
+            "Growler Fills",
+            "Merchandise",
+            "Patio",
+            "Snacks",
+            "Videogames"
+        ],
+        "url": "https://bcaletrail.ca/breweries/powell-street-craft-brewery/",
+        "address": "1357 Powell St",
+        "postal_code": "V5L 1G8",
+        "state_province": "BC",
+        "phone": "6045582537",
+        "website_url": "http://powellbeer.com",
+        "social_media": [
+            "https://twitter.com/powellbeer",
+            "https://www.facebook.com/powellbeer/",
+            "https://www.instagram.com/powellbeer/",
+            "https://untappd.com/PSCB"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.powellbeer.com/beers"
+    },
+    {
+        "name": "RAD Brewing",
+        "city": "Comox",
+        "brewery_type": [
+            "Bike Racks",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Growler Fills",
+            "Guest Taps",
+            "Live Music"
+        ],
+        "url": "https://bcaletrail.ca/breweries/rad-brewing-co/",
+        "address": "Unit 11",
+        "postal_code": "V9M 3M9",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://radbrewco.com/",
+        "social_media": [
+            "https://www.facebook.com/radbrewcomox",
+            "https://www.instagram.com/radbrewcomox/?fbclid=IwAR1jtpxpnx0PFIRFIyddsQN67moQCLQxeD-VEK5wRB6Y9HpluX2GlFLJpDs"
+        ],
+        "country": "Canada",
+        "menu_url": "https://radbrewco.com/our-beers"
+    },
+    {
+        "name": "Radium Brewing",
+        "city": "Radium Hot Springs",
+        "brewery_type": [
+            "Live Music",
+            "Snacks",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/radium-brewing/",
+        "address": "7537 Main Street West",
+        "postal_code": "V0A 1M0",
+        "state_province": "BC",
+        "phone": "2506888091",
+        "website_url": "https://www.radiumbrewing.ca/",
+        "social_media": [
+            "https://www.facebook.com/RadiumBrewing",
+            "https://www.instagram.com/radiumbrewing/"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Railside Brewing",
+        "city": "Kelowna",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Food Truck(s)",
+            "Patio",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/railside-brewing-ltd/",
+        "address": "1186 High Road",
+        "postal_code": "V1Y 7B1",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://www.railsidebrewing.ca/",
+        "social_media": [
+            "https://www.facebook.com/profile.php?id=100084425877565",
+            "https://www.instagram.com/railsidebrewingkelowna/"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.railsidebrewing.ca/"
+    },
+    {
+        "name": "Ravens Brewing Company",
+        "city": "Abbotsford",
+        "brewery_type": [
+            "Cocktails",
+            "Growler Fills",
+            "Merchandise",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/ravens-brewing-company/",
+        "address": "37455 Kilgard Road",
+        "postal_code": "V3G 0H8",
+        "state_province": "BC",
+        "phone": "2364834028",
+        "website_url": "http://ravensbrewing.com",
+        "social_media": [
+            "https://twitter.com/ravensbrewing",
+            "https://www.facebook.com/ravensbrewing/",
+            "https://www.instagram.com/ravensbrewing/",
+            "https://untappd.com/RavensBrewingCompany"
+        ],
+        "country": "Canada",
+        "menu_url": "http://www.ravens.beer/beers-1/"
+    },
+    {
+        "name": "R&B Brewing",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/rb-brewing-co/",
+        "address": "54 E 4th Ave",
+        "postal_code": "V5T 1E8",
+        "state_province": "BC",
+        "phone": "6048742537",
+        "website_url": "http://randbbrewing.com",
+        "social_media": [
+            "https://www.facebook.com/RBBrewing/",
+            "https://www.instagram.com/RBBrewing/",
+            "https://untappd.com/RandBBrewingCo"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.randbbrewing.com/copy-of-our-brews"
+    },
+    {
+        "name": "Red Arrow Brewing",
+        "city": "Duncan",
+        "brewery_type": [
+            "Cider",
+            "Cocktails",
+            "Food Truck(s)",
+            "Growler Fills",
+            "Live Music",
+            "Patio",
+            "Videogames",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/red-arrow-brewing-company/",
+        "address": "5255 Chaster Rd",
+        "postal_code": "V0R 2C0",
+        "state_province": "BC",
+        "phone": "2505970037",
+        "website_url": "http://redarrowbeer.ca",
+        "social_media": [
+            "https://twitter.com/RedArrowBeer",
+            "https://www.facebook.com/redarrowbrewing/",
+            "https://www.instagram.com/redarrowbeer/",
+            "https://untappd.com/RedArrowBeer"
+        ],
+        "country": "Canada",
+        "menu_url": "https://redarrowbeer.ca/signature-brews/"
+    },
+    {
+        "name": "Red Bird Brewing",
+        "city": "Kelowna",
+        "brewery_type": [],
+        "url": "https://bcaletrail.ca/breweries/red-bird-brewing/",
+        "address": "1086 Richter Street",
+        "postal_code": "V1Y 2K5",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://redbirdbrewing.com/",
+        "social_media": [
+            "https://twitter.com/redbirdbeer",
+            "https://www.facebook.com/redbirdbeer/",
+            "https://www.instagram.com/redbirdbeer/",
+            "https://untappd.com/w/red-bird-brewing/359293"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Red Collar Brewing",
+        "city": "Kamloops",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise"
+        ],
+        "url": "https://bcaletrail.ca/breweries/red-collar-brewing-co/",
+        "address": "355 Lansdowne St",
+        "postal_code": "V2C 1X9",
+        "state_province": "BC",
+        "phone": "7784710174",
+        "website_url": "http://redcollar.ca",
+        "social_media": [
+            "https://twitter.com/redcollarbrew",
+            "https://www.facebook.com/redcollarbrewery/",
+            "https://www.instagram.com/redcollarbrewing/",
+            "https://untappd.com/RedCollarBrewingCo"
+        ],
+        "country": "Canada",
+        "menu_url": "http://redcollar.ca/our-beers/"
+    },
+    {
+        "name": "Red Truck Beer Company",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Brewpub",
+            "Growler Fills",
+            "Merchandise"
+        ],
+        "url": "https://bcaletrail.ca/breweries/red-truck-beer-company/",
+        "address": "295 E 1st Ave",
+        "postal_code": "V5T 1A7",
+        "state_province": "BC",
+        "phone": "6046824733",
+        "website_url": "http://redtruckbeer.com",
+        "social_media": [
+            "https://www.facebook.com/RedTruckBeer/",
+            "https://www.instagram.com/redtruckbeer/",
+            "https://untappd.com/RedTruckBeerCompany"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.redtruckbeer.com/our-beer/"
+    },
+    {
+        "name": "Rewind Beer Co.",
+        "city": "Port Moody",
+        "brewery_type": [
+            "Cider",
+            "Food Truck(s)",
+            "Patio",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/rewind-beer-co/",
+        "address": "2809 Murray St",
+        "postal_code": "V3H 1X3",
+        "state_province": "BC",
+        "phone": "2364660226",
+        "website_url": "https://rewindbeer.com/",
+        "social_media": [
+            "https://www.facebook.com/rewindbeer",
+            "https://www.instagram.com/rewindbeer/"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Ricochet Brewing and Taphouse",
+        "city": "Salmon Arm",
+        "brewery_type": [
+            "Non Alc Beer Available",
+            "Patio",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/ricochet-brewing-and-taphouse/",
+        "address": "310 Hudson Ave",
+        "postal_code": "V1E 4N2",
+        "state_province": "BC",
+        "phone": "2508036829",
+        "website_url": "https://ricochetbrewing.com/",
+        "social_media": [
+            "https://www.facebook.com/ricochet.brewing.ca",
+            "https://www.instagram.com/ricochet.brewing"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Rossland Beer Company",
+        "city": "Rossland",
+        "brewery_type": [
+            "Food Truck(s)",
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/rossland-beer-company/",
+        "address": "1990F Columbia Avenue",
+        "postal_code": "V0G 1Y0",
+        "state_province": "BC",
+        "phone": "2503622122",
+        "website_url": "http://rosslandbeer.com",
+        "social_media": [
+            "https://twitter.com/RosslandBeer",
+            "https://www.facebook.com/RosslandBeer/",
+            "https://www.instagram.com/rosslandbeerco/",
+            "https://untappd.com/w/rossland-beer-company/146910"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Rumpus Beer Co",
+        "city": "Revelstoke",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/rumpus-beer-co/",
+        "address": "208 1st Street E",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "2506838100",
+        "website_url": "http://www.rumpusbeerco.com",
+        "social_media": [
+            "https://www.facebook.com/rumpusbeercompany/",
+            "https://www.instagram.com/rumpusbeerco/",
+            "https://untappd.com/w/rumpus-beer-company/434488"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Russell Brewing Company",
+        "city": "Surrey",
+        "brewery_type": [
+            "Cider",
+            "Growler Fills",
+            "Merchandise",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/russell-brewing-company/",
+        "address": "#100 - 13018 80 Ave",
+        "postal_code": "V3W 3B2",
+        "state_province": "BC",
+        "phone": "2365989951",
+        "website_url": "http://russellbeer.com",
+        "social_media": [
+            "https://twitter.com/Russell_Beer",
+            "https://www.facebook.com/Russell.Brewing/",
+            "https://www.instagram.com/russell_beer/",
+            "https://untappd.com/russell_beer"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.russellbeer.com/beers/"
+    },
+    {
+        "name": "Rusted Rake Brewing",
+        "city": "Nanoose Bay",
+        "brewery_type": [
+            "Bike Racks",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Dog Friendly Patio",
+            "GF Food Options",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Spirits",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/rusted-rake-brewing/",
+        "address": "3106 Northwest Bay Road",
+        "postal_code": "V9P 9E6",
+        "state_province": "BC",
+        "phone": "2508211934",
+        "website_url": "https://rustedrakebrewing.ca/",
+        "social_media": [
+            "https://www.facebook.com/rustedrakebrewing/",
+            "https://www.instagram.com/rustedrakebrewing/"
+        ],
+        "country": "Canada",
+        "menu_url": "https://rustedrakebrewing.ca/the-brew/"
+    },
+    {
+        "name": "Rustic Reel Brewing Co",
+        "city": "Kelowna",
+        "brewery_type": [
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "GF Food Options",
+            "Gluten-Free Beer",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Snacks",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/rustic-reel-brewing-co/",
+        "address": "760 Vaughan Ave",
+        "postal_code": "V1Y 7E4",
+        "state_province": "BC",
+        "phone": "2508623737",
+        "website_url": "http://www.rusticreel.com",
+        "social_media": [
+            "https://www.facebook.com/rusticreel/",
+            "https://www.instagram.com/rusticreel",
+            "https://untappd.com/w/rustic-reel-brewing-co/442195"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Salt Spring Brewing Co.",
+        "city": "Salt Spring Island",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise",
+            "Patio"
+        ],
+        "url": "https://bcaletrail.ca/breweries/salt-spring-island-ales/",
+        "address": "270 Furness Rd",
+        "postal_code": "V8K 1Z7",
+        "state_province": "BC",
+        "phone": "18443887742",
+        "website_url": "https://www.saltspringbrewing.com/",
+        "social_media": [
+            "https://twitter.com/saltspringales",
+            "https://www.facebook.com/saltspringbrewery",
+            "https://www.instagram.com/saltspringbrewery/",
+            "https://untappd.com/SaltSpringIslandAles"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.saltspringbrewing.com/beers"
+    },
+    {
+        "name": "Shaketown Brewing",
+        "city": "North Vancouver",
+        "brewery_type": [
+            "Cider",
+            "Live Music",
+            "Merchandise",
+            "Snacks",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/shaketown-brewing/",
+        "address": "#105 - 288 Esplanade Ave E",
+        "postal_code": "V7M 1A1",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://shaketownbrewing.com/",
+        "social_media": [
+            "https://mobile.twitter.com/shaketownbeer",
+            "https://www.instagram.com/shaketownbeer/",
+            "https://untappd.com/ShaketownBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Sherwood Mountain Brewhouse",
+        "city": "Terrace",
+        "brewery_type": [
+            "Bike Racks",
+            "Cider",
+            "Dog Friendly Patio",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Snacks",
+            "Spirits",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/sherwood-mountain-brewhouse/",
+        "address": "101 - 4816 Highway 16 W",
+        "postal_code": "V8G 1L6",
+        "state_province": "BC",
+        "phone": "2506350080",
+        "website_url": "http://sherwoodmountain.beer",
+        "social_media": [
+            "https://twitter.com/SherwoodMtn",
+            "https://www.facebook.com/SherwoodMountainBrewhouse",
+            "https://www.instagram.com/sherwoodmountainbeer/",
+            "https://untappd.com/w/sherwood-mountain-brewhouse/175106"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.sherwoodmountain.beer/beer"
+    },
+    {
+        "name": "Shore Line Brewing",
+        "city": "Kelowna",
+        "brewery_type": [
+            "Bike Racks",
+            "Cider",
+            "Cocktails",
+            "GF Food Options",
+            "Growler Fills",
+            "Merchandise",
+            "Patio",
+            "Videogames",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/shore-line-brewing/",
+        "address": "#116-3477 Lakeshore Road",
+        "postal_code": "V1W 0A7",
+        "state_province": "BC",
+        "phone": "7789406802",
+        "website_url": "https://www.shorelinebrewing.com/",
+        "social_media": [
+            "https://www.facebook.com/shorelinebrewingco/",
+            "https://www.instagram.com/shorelinebrewingco/",
+            "https://untappd.com/ShoreLineBrewingCo#"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.shorelinebrewing.com/our-beers"
+    },
+    {
+        "name": "Sidekick Brewing",
+        "city": "Chilliwack",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Brewpub",
+            "Cider",
+            "Craft Sodas",
+            "GF Food Options",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/sidekick-brewing/",
+        "address": "#106 - 45530 Vedder Mountain Rd",
+        "postal_code": "V2R 4C3",
+        "state_province": "BC",
+        "phone": "6048472023",
+        "website_url": "https://www.sidekickbrewing.com/",
+        "social_media": [
+            "https://www.facebook.com/SidekickBrewingBC",
+            "https://www.instagram.com/sidekickbrewingbc/"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.sidekickbrewing.com/beer"
+    },
+    {
+        "name": "Silverstar Brewing Company",
+        "city": "Vernon",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Dog Friendly Patio",
+            "GF Food Options",
+            "Growler Fills",
+            "Guest Taps",
+            "Live Music",
+            "Merchandise",
+            "Patio",
+            "Spirits",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/silverstar-brewing-company/",
+        "address": "2933 30th Ave",
+        "postal_code": "V1T 2B8",
+        "state_province": "BC",
+        "phone": "7784755115",
+        "website_url": "https://silverstarbrewing.com/",
+        "social_media": [
+            "https://www.facebook.com/silverstarbrewing",
+            "https://www.instagram.com/silverstarbrewing/"
+        ],
+        "country": "Canada",
+        "menu_url": "https://martenbrewingcompany.com/craft-beers"
+    },
+    {
+        "name": "Slackwater Brewing",
+        "city": "Penticton",
+        "brewery_type": [],
+        "url": "https://bcaletrail.ca/breweries/slackwater-brewing/",
+        "address": "218 Martin Street - PRODUCTION FACILITY ONLY",
+        "postal_code": "V2A 5K3",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "http://www.slackwaterbrewing.com",
+        "social_media": [
+            "https://www.facebook.com/slackwaterbrewing",
+            "https://www.instagram.com/slackwaterbrewing",
+            "https://untappd.com/SlackwaterBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Slow Hand Beer Co.",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Bike Racks",
+            "Cider",
+            "Craft Sodas",
+            "Dog Friendly Patio",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/slow-hand-beer/",
+        "address": "1830 Powell St",
+        "postal_code": "V5L 1H9",
+        "state_province": "BC",
+        "phone": "7788192252",
+        "website_url": "https://www.slowhandbeer.com/",
+        "social_media": [
+            "https://www.facebook.com/slowhandbeer",
+            "https://www.instagram.com/slowhandbeer/",
+            "https://untappd.com/SHBCo"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Small Gods Brewing",
+        "city": "Sidney",
+        "brewery_type": [
+            "Bike Racks",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/small-gods-brewing-co/",
+        "address": "9835 Third Street",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://smallgods.ca/",
+        "social_media": [
+            "https://twitter.com/SmallGodsBrew",
+            "https://www.facebook.com/smallgodsbrewing",
+            "https://www.instagram.com/smallgodsbrewing/?hl=en"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Smithers Brewing Company",
+        "city": "Smithers",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/smithers-brewing/",
+        "address": "3832 3 Ave",
+        "postal_code": "V0J 2N0",
+        "state_province": "BC",
+        "phone": "7786402739",
+        "website_url": "https://www.smithersbrewing.com",
+        "social_media": [
+            "https://www.facebook.com/smithersbrewing/",
+            "https://www.instagram.com/smithersbrewing/",
+            "https://untappd.com/SmithersBrewingCo"
+        ],
+        "country": "Canada",
+        "menu_url": "https://smithersbrewing.com/beer/"
+    },
+    {
+        "name": "Smugglers Trail Caskworks",
+        "city": "Langley",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Dog Friendly Patio",
+            "Growler Fills",
+            "Guest Taps",
+            "Live Music",
+            "Merchandise",
+            "Patio",
+            "Spirits",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/smugglers-trail-caskworks/",
+        "address": "140 - 9339 200A St",
+        "postal_code": "V1M 0B3",
+        "state_province": "BC",
+        "phone": "7787051880",
+        "website_url": "https://smugglerstrailcask.com/",
+        "social_media": [
+            "https://twitter.com/smugglerstrail",
+            "https://www.facebook.com/smugglers.trail.beer/",
+            "https://www.instagram.com/smugglerstrail/",
+            "https://untappd.com/smugglerstrail"
+        ],
+        "country": "Canada",
+        "menu_url": "https://smugglerstrailcask.com/our-beers/"
+    },
+    {
+        "name": "Sooke Brewing Company",
+        "city": "Sooke",
+        "brewery_type": [
+            "Food Truck(s)",
+            "Growler Fills",
+            "Merchandise"
+        ],
+        "url": "https://bcaletrail.ca/breweries/sooke-brewing-company/",
+        "address": "2057 Otter Point Road",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "2506420106",
+        "website_url": "http://sookebrewing.com",
+        "social_media": [
+            "https://twitter.com/SookeBrewingCo",
+            "https://www.facebook.com/sookebrewing/",
+            "https://www.instagram.com/sookebrewing/",
+            "https://untappd.com/SookeBrewingCompany"
+        ],
+        "country": "Canada",
+        "menu_url": "https://sookebrewing.com/#beers"
+    },
+    {
+        "name": "Sooke Oceanside Brewery",
+        "city": "Sooke",
+        "brewery_type": [
+            "Cider",
+            "Food Truck(s)",
+            "Growler Fills",
+            "Merchandise",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/sooke-oceanside-brewery/",
+        "address": "5871 - A Sooke Road",
+        "postal_code": "V9Z 0C7",
+        "state_province": "BC",
+        "phone": "7783522739",
+        "website_url": "http://sookeoceansidebrewery.com",
+        "social_media": [
+            "https://twitter.com/sookebrew",
+            "https://www.facebook.com/sookebrew/",
+            "https://www.instagram.com/Sookebrew/",
+            "https://untappd.com/SookeOceansideBrewery"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.sookeoceansidebrewery.com/our-beer/"
+    },
+    {
+        "name": "Spinnakers Brewpub",
+        "city": "Victoria",
+        "brewery_type": [
+            "Brewpub",
+            "Cider",
+            "Growler Fills",
+            "Merchandise",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/spinnakers-brewpub/",
+        "address": "308 Catherine St",
+        "postal_code": "V9A 3S8",
+        "state_province": "BC",
+        "phone": "2503862739",
+        "website_url": "http://spinnakers.com",
+        "social_media": [
+            "https://twitter.com/spinnakers",
+            "https://www.facebook.com/spinnakersbrewpub/",
+            "https://www.instagram.com/spinnakersbrewpub/",
+            "https://untappd.com/Spinnakers"
+        ],
+        "country": "Canada",
+        "menu_url": "http://www.spinnakers.com/beer/"
+    },
+    {
+        "name": "Steamworks Brew Pub",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Brewpub",
+            "GF Food Options",
+            "Patio",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/steamworks-brewpub/",
+        "address": "375 Water St",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "6046892739",
+        "website_url": "http://steamworks.com/brew-pub",
+        "social_media": [
+            "https://www.facebook.com/Steamworks/",
+            "https://www.instagram.com/steamworksbrewpub/",
+            "https://untappd.com/v/steamworks-brewing-company/22757"
+        ],
+        "country": "Canada",
+        "menu_url": "http://www.steamworks.com/brew-pub"
+    },
+    {
+        "name": "Steamworks Brewing Co – Burnaby Brewery & Taproom",
+        "city": "Burnaby",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Cider",
+            "Craft Sodas",
+            "Food Truck(s)",
+            "Growler Fills",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/steamworks-brewing-co/",
+        "address": "3845 William St",
+        "postal_code": "V5C 3J1",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://steamworks.com/the-brewery/",
+        "social_media": [
+            "https://www.facebook.com/steamworksbeer/",
+            "https://www.instagram.com/steamworksbeer/",
+            "https://untappd.com/steamworks"
+        ],
+        "country": "Canada",
+        "menu_url": "http://steamworks.com/brewery"
+    },
+    {
+        "name": "Steel & Oak Brewing",
+        "city": "New Westminster",
+        "brewery_type": [
+            "Cider",
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/steel-oak-brewing-co/",
+        "address": "1319 3rd Ave",
+        "postal_code": "V3M 1R2",
+        "state_province": "BC",
+        "phone": "6045406495",
+        "website_url": "http://steelandoak.ca",
+        "social_media": [
+            "https://twitter.com/steelandoak",
+            "https://www.facebook.com/steelandoak/",
+            "https://www.instagram.com/steelandoak/",
+            "https://untappd.com/SteelAndOak"
+        ],
+        "country": "Canada",
+        "menu_url": "http://steelandoak.ca/"
+    },
+    {
+        "name": "Storm Brewing",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise"
+        ],
+        "url": "https://bcaletrail.ca/breweries/storm-brewing-ltd/",
+        "address": "310 Commercial Dr",
+        "postal_code": "V5L 1T1",
+        "state_province": "BC",
+        "phone": "6042559119",
+        "website_url": "http://stormbrewing.org",
+        "social_media": [
+            "https://twitter.com/stormbrewingvan",
+            "https://www.facebook.com/stormbrewing/",
+            "https://www.instagram.com/stormbrewing/",
+            "https://untappd.com/w/storm-brewing-british-columbia/1210"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Strange Fellows Brewing",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Cider",
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/strange-fellows-brewing/",
+        "address": "1345 Clark Dr",
+        "postal_code": "V5L 3K8",
+        "state_province": "BC",
+        "phone": "6042150092",
+        "website_url": "http://strangefellowsbrewing.com",
+        "social_media": [
+            "https://twitter.com/Strange_Fellows",
+            "https://www.facebook.com/strangefellowsbrewing/",
+            "https://www.instagram.com/strangefellowsbrewing/",
+            "https://untappd.com/StrangeFellowsBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "https://strangefellowsbrewing.com/#what"
+    },
+    {
+        "name": "Strathcona Beer Co.",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Brewpub",
+            "Growler Fills",
+            "Merchandise"
+        ],
+        "url": "https://bcaletrail.ca/breweries/strathcona-beer-company/",
+        "address": "895 E Hastings St",
+        "postal_code": "V6A 3Y1",
+        "state_province": "BC",
+        "phone": "7783799050",
+        "website_url": "http://strathconabeer.com",
+        "social_media": [
+            "https://twitter.com/strathconabeer",
+            "https://www.facebook.com/strathconabeer/",
+            "https://www.instagram.com/strathconabeer/",
+            "https://untappd.com/w/strathcona-beer-company/283978"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.strathconabeer.com/our-beers/"
+    },
+    {
+        "name": "Superflux Beer Co.",
+        "city": "Vancouver",
+        "brewery_type": [],
+        "url": "https://bcaletrail.ca/breweries/superflux-beer-co/",
+        "address": "505 Clark Dr",
+        "postal_code": "V5L 3H7",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://www.superfluxbeer.com/",
+        "social_media": [
+            "https://www.instagram.com/superfluxbeer/",
+            "https://untappd.com/SuperfluxBeerCompany"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.superfluxbeer.com/menu"
+    },
+    {
+        "name": "Swift Brewing",
+        "city": "Victoria",
+        "brewery_type": [
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Dog Friendly Patio",
+            "Guest Taps",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Videogames",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/swift-brewing/",
+        "address": "450 Swift St",
+        "postal_code": "V8W 1S3",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "http://swiftbrewing.ca",
+        "social_media": [
+            "https://www.facebook.com/SwiftBeer",
+            "https://www.instagram.com/swiftbeer/",
+            "https://untappd.com/w/swift-brewing/541900"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Switchback Brewing",
+        "city": "Maple Ridge",
+        "brewery_type": [
+            "Food Truck(s)",
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/switchback-brewing/",
+        "address": "22775 Dewdney Trunk Rd",
+        "postal_code": "V2X 3K4",
+        "state_province": "BC",
+        "phone": "6044790999",
+        "website_url": "https://www.switchbackbrewco.com/",
+        "social_media": [
+            "https://www.facebook.com/profile.php?id=61558280696857",
+            "https://www.instagram.com/switchbackbrewingcanada/"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.switchbackbrewco.com/taproommenu"
+    },
+    {
+        "name": "Tailout Brewing",
+        "city": "Trail",
+        "brewery_type": [
+            "Bike Racks",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "Food Truck(s)",
+            "Growler Fills",
+            "Non Alc Beer Available",
+            "Patio",
+            "Spirits",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/tailout-brewing/",
+        "address": "1299 Bay Avenue",
+        "postal_code": "V1R 4A5",
+        "state_province": "BC",
+        "phone": "2506089056",
+        "website_url": "http://www.tailoutbrewing.com",
+        "social_media": [
+            "https://www.facebook.com/tailoutbrewing/",
+            "https://www.instagram.com/tailoutbrewing/",
+            "https://untappd.com/TailoutBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "http://tailoutbrewing.com/beer/"
+    },
+    {
+        "name": "Tapworks Brewing Company",
+        "city": "Gibsons",
+        "brewery_type": [
+            "Brewpub",
+            "Cider",
+            "Craft Sodas",
+            "GF Food Options",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Patio",
+            "Videogames",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/tapworks-brewing-company/",
+        "address": "537 Cruice Lane",
+        "postal_code": "V0N 1V9",
+        "state_province": "BC",
+        "phone": "7784622337",
+        "website_url": "http://www.gibsonstapworks.com/delivery",
+        "social_media": [
+            "https://twitter.com/tapworksbrewing",
+            "https://www.facebook.com/tapworksbrewing/",
+            "http://www.instagram.com/tapworksbrewing",
+            "https://untappd.com/w/gibsons-tapworks-brewing/320257"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.gibsonstapworks.com/menu"
+    },
+    {
+        "name": "Taylight Brewing",
+        "city": "Port Coquitlam",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Cider",
+            "Craft Sodas",
+            "Dog Friendly Patio",
+            "Food Truck(s)",
+            "Gluten-Free Beer",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Snacks",
+            "Spirits",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/taylight-brewing/",
+        "address": "402 - 1485 Coast Meridian Road",
+        "postal_code": "V3C 5P1",
+        "state_province": "BC",
+        "phone": "6042831944",
+        "website_url": "http://taylightbrewing.com/",
+        "social_media": [
+            "https://www.facebook.com/taylightbrewing/",
+            "https://www.instagram.com/taylight_brewing",
+            "https://untappd.com/Taylight_Brewing"
+        ],
+        "country": "Canada",
+        "menu_url": "https://taylightbrewing.com/#our-brews"
+    },
+    {
+        "name": "Three Lakes Brewing",
+        "city": "Kelowna",
+        "brewery_type": [
+            "Cider",
+            "Growler Fills",
+            "Guest Taps",
+            "Non Alc Beer Available",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/three-lakes-brewing-co/",
+        "address": "#7 - 2030 Matrix Crescent",
+        "postal_code": "V1V 0G5",
+        "state_province": "BC",
+        "phone": "2508085430",
+        "website_url": "https://threelakesbrewing.com/",
+        "social_media": [
+            "https://www.facebook.com/threelakesbrewing",
+            "https://www.instagram.com/threelakesbrewing/"
+        ],
+        "country": "Canada",
+        "menu_url": "https://threelakesbrewing.com/our-beer/"
+    },
+    {
+        "name": "Three Ranges Brewing Company",
+        "city": "Valemount",
+        "brewery_type": [
+            "Cider",
+            "Food Truck(s)",
+            "Growler Fills",
+            "Merchandise",
+            "Snacks",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/three-ranges-brewing-company/",
+        "address": "1160 5th Avenue",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "2505660024",
+        "website_url": "https://threeranges.com/",
+        "social_media": [
+            "https://twitter.com/threeranges",
+            "https://www.facebook.com/ThreeRangesBrewingCompany/",
+            "https://www.instagram.com/threerangesbrewing/",
+            "https://untappd.com/ThreeRanges"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Tin Whistle Brewing",
+        "city": "Penticton",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Dog Friendly Patio",
+            "Growler Fills",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/tin-whistle-brewing-co/",
+        "address": "1475 Fairview Rd",
+        "postal_code": "V2A 7W5",
+        "state_province": "BC",
+        "phone": "2507701122",
+        "website_url": "https://www.tinwhistlebrewery.com/",
+        "social_media": [
+            "https://twitter.com/tinwhistlebrew",
+            "https://www.facebook.com/TinWhistleBrew/",
+            "https://www.instagram.com/thetinwhistle/",
+            "https://untappd.com/w/tin-whistle-brewing-company/6156"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Tinhouse Brewing",
+        "city": "Port Coquitlam",
+        "brewery_type": [
+            "Food Truck(s)",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Videogames",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/tinhouse-brewing/",
+        "address": "#2140-550 Sherling Place",
+        "postal_code": "V3B 0J6",
+        "state_province": "BC",
+        "phone": "6044743434",
+        "website_url": "http://www.tinhousebrewing.ca/",
+        "social_media": [
+            "https://twitter.com/tinhousebrewing",
+            "https://www.facebook.com/TinHouseBrewing",
+            "https://www.instagram.com/tinhousebrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "http://tinhousebrewing.ca/beers/"
+    },
+    {
+        "name": "Tofino Brewing",
+        "city": "Tofino",
+        "brewery_type": [
+            "Food Truck(s)",
+            "Growler Fills",
+            "Merchandise",
+            "Patio"
+        ],
+        "url": "https://bcaletrail.ca/breweries/tofino-brewing/",
+        "address": "691 Industrial Way",
+        "postal_code": "V0R 2Z0",
+        "state_province": "BC",
+        "phone": "2507252899",
+        "website_url": "http://tofinobrewingco.com",
+        "social_media": [
+            "https://twitter.com/TofinoBrewCo",
+            "https://www.facebook.com/TofinoBrewCo/",
+            "https://www.instagram.com/tofinobrewco/",
+            "https://untappd.com/TofinoBrewingCompany"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Torchlight Brewing",
+        "city": "Nelson",
+        "brewery_type": [
+            "Board Games",
+            "Brewpub",
+            "Cider",
+            "Cocktails",
+            "GF Food Options",
+            "Growler Fills",
+            "Merchandise",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/torchlight-brewing-co/",
+        "address": "125 Hall Street",
+        "postal_code": "V1L 7B4",
+        "state_province": "BC",
+        "phone": "2503520094",
+        "website_url": "http://www.torchlightbrewing.com/",
+        "social_media": [
+            "https://twitter.com/Brew_Torchlight",
+            "https://www.facebook.com/brewtorchlight/",
+            "https://www.instagram.com/torchlightbrewing",
+            "https://untappd.com/TorchlightBrewingCompany"
+        ],
+        "country": "Canada",
+        "menu_url": "http://www.torchlightbrewing.com/menu"
+    },
+    {
+        "name": "Townsite Brewing",
+        "city": "Powell River",
+        "brewery_type": [
+            "Cider",
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/townsite-brewing/",
+        "address": "5824 Ash Ave",
+        "postal_code": "V8A 4R4",
+        "state_province": "BC",
+        "phone": "6044832111",
+        "website_url": "http://townsitebrewing.com/",
+        "social_media": [
+            "https://twitter.com/townsitebrewing",
+            "https://www.facebook.com/townsitebrewing/",
+            "https://www.instagram.com/townsitebrewing/",
+            "https://www.untappd.com/TownsiteBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "http://www.townsitebrewing.com/our-beer/"
+    },
+    {
+        "name": "Trading Post Brewing",
+        "city": "Langley",
+        "brewery_type": [
+            "Cider",
+            "GF Food Options",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Patio",
+            "Snacks",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/trading-post-brewing/",
+        "address": "#107 - 20120 64 Avenue",
+        "postal_code": "V2Y 1M7",
+        "state_province": "BC",
+        "phone": "6043432337",
+        "website_url": "http://tradingpostbrewing.com",
+        "social_media": [
+            "https://twitter.com/tradingpostbrew",
+            "https://www.facebook.com/TradingPostBrewing/",
+            "https://www.instagram.com/tradingpostbrewing/",
+            "https://untappd.com/TradingPostBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "http://tradingpostbrewing.com/beer/"
+    },
+    {
+        "name": "Trench Brewing & Distilling",
+        "city": "Prince George",
+        "brewery_type": [
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/trench-brewing-distilling/",
+        "address": "399 2nd Ave",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "2364230065",
+        "website_url": "http://www.trenchbrew.ca",
+        "social_media": [
+            "https://twitter.com/trenchbrewing",
+            "https://www.facebook.com/trenchbrew/",
+            "https://www.instagram.com/trenchbrewing/",
+            "https://untappd.com/TrenchBrew"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.trenchbrew.ca/beer"
+    },
+    {
+        "name": "Twa Dogs Brewery at Macaloney’s Island Distillery",
+        "city": "Victoria",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Craft Sodas",
+            "Dog Friendly Patio",
+            "Gluten-Free Beer",
+            "Growler Fills",
+            "Guest Taps",
+            "Live Music",
+            "Merchandise",
+            "Snacks",
+            "Spirits"
+        ],
+        "url": "https://bcaletrail.ca/breweries/twa-dogs-brewery/",
+        "address": "761 Enterprise Crescent",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "7784010410",
+        "website_url": "https://macaloneydistillers.com/lounge/",
+        "social_media": [
+            "https://www.facebook.com/twadogsbrewery",
+            "https://www.instagram.com/twadogsbrewery/",
+            "https://untappd.com/TwaDogsBeer"
+        ],
+        "country": "Canada",
+        "menu_url": "https://victoriacaledonian.com/our-beers/"
+    },
+    {
+        "name": "Twin City Brewing Co",
+        "city": "Port Alberni",
+        "brewery_type": [
+            "Brewpub",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/twin-city-brewing-company/",
+        "address": "4503 Margaret St",
+        "postal_code": "V9Y 6G8",
+        "state_province": "BC",
+        "phone": "7784192739",
+        "website_url": "http://twincitybrewing.ca",
+        "social_media": [
+            "https://twitter.com/twincitybrewing",
+            "https://www.facebook.com/twincitybrew/",
+            "https://www.instagram.com/twincitybrewing/",
+            "https://untappd.com/TwinCityBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Twin Sails Brewing",
+        "city": "Port Moody",
+        "brewery_type": [
+            "Food Truck(s)",
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/twin-sails-brewing/",
+        "address": "2821 Murray St",
+        "postal_code": "V3H 1X3",
+        "state_province": "BC",
+        "phone": "6044924234",
+        "website_url": "http://twinsailsbrewing.com",
+        "social_media": [
+            "https://twitter.com/TwinSailsBeer",
+            "https://www.facebook.com/TwinSailsBrewing/",
+            "https://www.instagram.com/twinsailsbeer/",
+            "https://untappd.com/TwinSailsBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "http://twinsailsbrewing.com/our-beer/"
+    },
+    {
+        "name": "Two Peaks Brewing",
+        "city": "Kitimat",
+        "brewery_type": [
+            "Cocktails",
+            "Growler Fills",
+            "Guest Taps",
+            "Patio",
+            "Wheelchair Accessible"
+        ],
+        "url": "https://bcaletrail.ca/breweries/two-peaks-brewing/",
+        "address": "578 Mountainview Sq",
+        "postal_code": "V8C 1T5",
+        "state_province": "BC",
+        "phone": "7786312739",
+        "website_url": "https://twopeaksbrewing.ca/",
+        "social_media": [
+            "https://www.facebook.com/profile.php?id=100063740327983",
+            "https://www.instagram.com/twopeaksbrewing/"
+        ],
+        "country": "Canada",
+        "menu_url": "https://twopeaksbrewing.ca/beers/"
+    },
+    {
+        "name": "Ucluelet Brewing",
+        "city": "Ucluelet",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Brewpub",
+            "Cider",
+            "GF Food Options",
+            "Growler Fills",
+            "Guest Taps",
+            "Live Music",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/ucluelet-brewing/",
+        "address": "1601 Peninsula Rd",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "2507260499",
+        "website_url": "https://uclueletbrewing.ca/",
+        "social_media": [
+            "https://twitter.com/BrewUkee",
+            "https://www.facebook.com/pg/brewukee",
+            "https://www.instagram.com/ucluelet_brewing_co/",
+            "https://untappd.com/UclueletBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.uclueletbrewing.ca/menu"
+    },
+    {
+        "name": "Unleashed Brewing",
+        "city": "Kelowna",
+        "brewery_type": [
+            "Cider",
+            "Growler Fills",
+            "Merchandise",
+            "Snacks",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/unleashed-brewing/",
+        "address": "207-880 Clement Ave",
+        "postal_code": "V1Y 0H8",
+        "state_province": "BC",
+        "phone": "2507178817",
+        "website_url": "https://unleashedbrewing.ca/",
+        "social_media": [
+            "https://www.facebook.com/unleashedbrewingco/",
+            "https://www.instagram.com/unleashedbrewingco/"
+        ],
+        "country": "Canada",
+        "menu_url": "https://unleashedbrewing.ca/pages/drink-menu"
+    },
+    {
+        "name": "Vancouver Island Brewing",
+        "city": "Victoria",
+        "brewery_type": [],
+        "url": "https://bcaletrail.ca/breweries/vi-brewing/",
+        "address": "2330 Government St",
+        "postal_code": "V8T 5G5",
+        "state_province": "BC",
+        "phone": "25036210007",
+        "website_url": "http://vibrewing.com/",
+        "social_media": [
+            "https://twitter.com/vibrewing",
+            "https://www.facebook.com/vibrewing/",
+            "https://www.instagram.com/vibrewing/",
+            "https://untappd.com/vibrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Way Back Brew Co.",
+        "city": "Surrey",
+        "brewery_type": [
+            "Craft Sodas",
+            "Food Truck(s)",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/way-back-brew-co/",
+        "address": "Unit 116 - 15063 54a",
+        "postal_code": "V3S 5X7",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://www.waybackbrewco.com/",
+        "social_media": [
+            "https://www.facebook.com/waybackbrewingco",
+            "https://www.instagram.com/waybackbrewco/"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.waybackbrewco.com/brews"
+    },
+    {
+        "name": "Wheelhouse Brewing Company",
+        "city": "Prince Rupert",
+        "brewery_type": [
+            "Food Truck(s)",
+            "Gluten-Free Beer",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/wheelhouse-brewing-company/",
+        "address": "380 Bill Murray Dr",
+        "postal_code": "V8J 4P5",
+        "state_province": "BC",
+        "phone": "2506242739",
+        "website_url": "https://www.wheelhousebrewing.com/",
+        "social_media": [
+            "https://twitter.com/wheelhousebeer",
+            "https://www.facebook.com/wheelhousebrewing/",
+            "https://www.instagram.com/wheelhousebeer/",
+            "https://untappd.com/WheelhouseBrewingCompany"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Whistle Buoy Brewing",
+        "city": "Victoria",
+        "brewery_type": [
+            "Bike Racks",
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Dog Friendly Patio",
+            "Guest Taps",
+            "Merchandise",
+            "Outside food permitted",
+            "Patio",
+            "Snacks",
+            "Spirits",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/whistle-buoy-brewing-co/",
+        "address": "Unit 63 - 560 Johnson St.",
+        "postal_code": "V8W 3C6",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://whistlebuoybrewing.com/",
+        "social_media": [
+            "https://www.facebook.com/whistlebuoybrewing/",
+            "https://www.instagram.com/whistlebuoybrewing/",
+            "https://untappd.com/WhistleBuoyBrewingCo"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Whistler Brewing Company",
+        "city": "Whistler",
+        "brewery_type": [
+            "Brewpub",
+            "Growler Fills",
+            "Merchandise"
+        ],
+        "url": "https://bcaletrail.ca/breweries/whistler-brewing-co/",
+        "address": "1045 Millar Creek Rd",
+        "postal_code": "V0N 1B1",
+        "state_province": "BC",
+        "phone": "6049628889",
+        "website_url": "http://whistlerbeer.com",
+        "social_media": [
+            "https://twitter.com/whistlerbrewing",
+            "https://www.facebook.com/WhistlerBrewing/",
+            "https://www.instagram.com/whistlerbrewing/",
+            "https://untappd.com/WhistlerBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "http://www.whistlerbeer.com/"
+    },
+    {
+        "name": "White Rock Beach Beer Co.",
+        "city": "White Rock",
+        "brewery_type": [
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Patio",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/white-rock-beach-beer-company/",
+        "address": "15181 Russell Ave",
+        "postal_code": "V4B 3Z6",
+        "state_province": "BC",
+        "phone": "7788085416",
+        "website_url": "http://whiterockbeachbeer.com",
+        "social_media": [
+            "https://twitter.com/WRBeachBeer",
+            "https://www.facebook.com/White-Rock-Beach-Beer-Company-277772139071094/",
+            "https://www.instagram.com/WRBeachBeer/",
+            "https://untappd.com/w/white-rock-beach-beer-company/125603"
+        ],
+        "country": "Canada",
+        "menu_url": "http://whiterockbeachbeer.com/beers.html"
+    },
+    {
+        "name": "White Sails Brewing",
+        "city": "Nanaimo",
+        "brewery_type": [
+            "Cider",
+            "Cocktails",
+            "Craft Sodas",
+            "Growler Fills",
+            "Guest Taps",
+            "Live Music",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Snacks",
+            "Videogames",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/white-sails-brewing/",
+        "address": "125 Comox Rd",
+        "postal_code": "V9R 3H9",
+        "state_province": "BC",
+        "phone": "2507542337",
+        "website_url": "http://whitesailsbrewing.com",
+        "social_media": [
+            "https://twitter.com/whitesailsbeer",
+            "https://www.facebook.com/whitesailsbrewing/",
+            "https://www.instagram.com/whitesailsbrewing/",
+            "https://untappd.com/WhiteSailsBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "http://whitesailsbrewing.com/beer/"
+    },
+    {
+        "name": "Whitetooth Brewing",
+        "city": "Golden",
+        "brewery_type": [
+            "Food Truck(s)",
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/whitetooth-brewing-company-ltd/",
+        "address": "623 8th Avenue North",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "2503442838",
+        "website_url": "http://whitetoothbrewing.com",
+        "social_media": [
+            "https://twitter.com/whitetoothbrew",
+            "https://www.facebook.com/WhitetoothBrewing/",
+            "https://www.instagram.com/whitetoothbrew/",
+            "https://untappd.com/WhitetoothBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "https://whitetoothbrewing.com/the-beers-index/"
+    },
+    {
+        "name": "Wild Ambition Brewing",
+        "city": "Kelowna",
+        "brewery_type": [],
+        "url": "https://bcaletrail.ca/breweries/wild-ambition-brewing/",
+        "address": "1-3314 Appaloosa Rd",
+        "postal_code": "V1V 2W5",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://wildambition.beer/",
+        "social_media": [
+            "https://twitter.com/WildAmbitionBC",
+            "https://www.facebook.com/wildambitionbrewing/",
+            "https://www.instagram.com/wildambitionbrewing/",
+            "https://untappd.com/WildAmbitionBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "https://wildambition.beer/shop/"
+    },
+    {
+        "name": "Wild North Brewing Co",
+        "city": "Creston",
+        "brewery_type": [
+            "Cider",
+            "Food Truck(s)",
+            "Growler Fills",
+            "Patio",
+            "Snacks",
+            "Videogames",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/wild-north-brewing/",
+        "address": "125 16th Ave N",
+        "postal_code": "V0B 1G0",
+        "state_province": "BC",
+        "phone": "2504318624",
+        "website_url": "https://wildnorthbrewery.ca/",
+        "social_media": [
+            "https://www.facebook.com/wildnorthbrewingco/",
+            "https://www.instagram.com/wildnorthbrewing/",
+            "https://untappd.com/WildNorthBrewingCo"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Wildeye Brewing",
+        "city": "North Vancouver",
+        "brewery_type": [
+            "Brewpub",
+            "Cider",
+            "Growler Fills",
+            "Non Alc Beer Available",
+            "Snacks",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/wildeye-brewing/",
+        "address": "1385 Main Street",
+        "postal_code": "N/A",
+        "state_province": "BC",
+        "phone": "6049881900",
+        "website_url": "http://www.wildeyebrewing.ca/",
+        "social_media": [
+            "https://www.facebook.com/wildeyebrewing/",
+            "https://www.instagram.com/wildeyebrewing",
+            "https://untappd.com/WildeyeBrewing"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.wildeyebrewing.ca/our-beer-rg81g"
+    },
+    {
+        "name": "Wolf Brewing Company",
+        "city": "Nanaimo",
+        "brewery_type": [
+            "Bike Racks",
+            "Board Games",
+            "Cider",
+            "Cocktails",
+            "Gluten-Free Beer",
+            "Growler Fills",
+            "Live Music",
+            "Merchandise",
+            "Non Alc Beer Available",
+            "Patio",
+            "Videogames",
+            "Wheelchair Accessible",
+            "Wine"
+        ],
+        "url": "https://bcaletrail.ca/breweries/wolf-brewing-company/",
+        "address": "940 Old Victoria Rd",
+        "postal_code": "V9R 6Z8",
+        "state_province": "BC",
+        "phone": "2507162739",
+        "website_url": "http://wolfbrewingcompany.com",
+        "social_media": [
+            "https://www.facebook.com/Wolf.Nanaimo/",
+            "https://www.instagram.com/wolfbrewingcompany/",
+            "https://untappd.com/w/wolf-brewing/11376"
+        ],
+        "country": "Canada",
+        "menu_url": "https://www.wolfbrewingcompany.com/our-beer"
+    },
+    {
+        "name": "Yaletown Brewing",
+        "city": "Vancouver",
+        "brewery_type": [
+            "Brewpub",
+            "Growler Fills"
+        ],
+        "url": "https://bcaletrail.ca/breweries/yaletown-brewing-co/",
+        "address": "1111 Mainland St",
+        "postal_code": "V6B 2T9",
+        "state_province": "BC",
+        "phone": "6046812739",
+        "website_url": "http://www.mjg.ca/yaletown/",
+        "social_media": [
+            "https://www.facebook.com/YBC-Yaletown-Brewing-Company-Official-Page-61928961678/",
+            "https://www.instagram.com/yaletownbrewingco/",
+            "https://untappd.com/w/yaletown-brewing-company/1381"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    },
+    {
+        "name": "Yellow Dog Brewing",
+        "city": "Port Moody",
+        "brewery_type": [
+            "Food Truck(s)",
+            "Growler Fills",
+            "Merchandise",
+            "Snacks"
+        ],
+        "url": "https://bcaletrail.ca/breweries/yellow-dog-brewing/",
+        "address": "2817 Murray St #1",
+        "postal_code": "V3H 1X3",
+        "state_province": "BC",
+        "phone": "6044920191",
+        "website_url": "http://yellowdogbeer.com",
+        "social_media": [
+            "https://twitter.com/yellowdogbeer",
+            "https://www.facebook.com/YellowDogBeer/",
+            "https://www.instagram.com/yellowdogbeer/",
+            "https://untappd.com/YellowDogBrewingCo"
+        ],
+        "country": "Canada",
+        "menu_url": "https://yellowdogbeer.com/beer/core-beer/"
+    },
+    {
+        "name": "Yellow Dog Brewing Penticton",
+        "city": "Penticton",
+        "brewery_type": [
+            "Cocktails",
+            "Patio",
+            "Spirits"
+        ],
+        "url": "https://bcaletrail.ca/breweries/yellow-dog-brewing-penticton/",
+        "address": "169 Estabrook Ave",
+        "postal_code": "V2A 1G2",
+        "state_province": "BC",
+        "phone": "N/A",
+        "website_url": "https://yellowdogbeer.com/penticton-tasting-room/",
+        "social_media": [
+            "https://www.facebook.com/YellowDogBeer",
+            "https://www.instagram.com/yellowdogbeer/",
+            "https://untappd.com/YellowDogBrew"
+        ],
+        "country": "Canada",
+        "menu_url": "N/A"
+    }
+]
